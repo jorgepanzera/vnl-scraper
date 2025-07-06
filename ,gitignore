@@ -26,6 +26,10 @@ vnl_results/
 *.tmp
 *.bak
 
+# Optional: ignore notebook outputs
+*.ipynb_checkpoints/
+notebooks/
+
 # macOS and Windows system files
 .DS_Store
 Thumbs.db
