@@ -1,0 +1,652 @@
+season,gender,match_date,home_team,away_team,home_score,away_score,outcome,set_1_home,set_1_away,set_2_home,set_2_away,set_3_home,set_3_away,set_4_home,set_4_away,set_5_home,set_5_away,match_url
+2018,women,2018-07-01,Turkey,USA,2,3,0,25,17,22,25,28,26,15.0,25.0,7.0,15.0,https://www.flashscore.com/match/WnHRBJE5/#/match-summary
+2018,women,2018-07-01,Brazil,China,0,3,0,18,25,22,25,22,25,,,,,https://www.flashscore.com/match/EB6WAwUB/#/match-summary
+2018,women,2018-06-30,USA,China,3,1,1,25,23,25,20,18,25,25.0,18.0,,,https://www.flashscore.com/match/lIvNJUIJ/#/match-summary
+2018,women,2018-06-30,Brazil,Turkey,0,3,0,23,25,23,25,22,25,,,,,https://www.flashscore.com/match/02oueotJ/#/match-summary
+2018,women,2018-06-29,China,Brazil,0,3,0,20,25,22,25,22,25,,,,,https://www.flashscore.com/match/dCkfHCDE/#/match-summary
+2018,women,2018-06-29,USA,Serbia,3,0,1,29,27,25,22,25,19,,,,,https://www.flashscore.com/match/AJVUAAjr/#/match-summary
+2018,women,2018-06-28,Brazil,Netherlands,3,0,1,25,16,25,17,25,23,,,,,https://www.flashscore.com/match/ILjjIhb8/#/match-summary
+2018,women,2018-06-28,Serbia,Turkey,2,3,0,25,20,21,25,18,25,25.0,19.0,14.0,16.0,https://www.flashscore.com/match/hvq3FjrR/#/match-summary
+2018,women,2018-06-27,China,Netherlands,3,1,1,20,25,25,21,25,22,25.0,18.0,,,https://www.flashscore.com/match/4I28g9L7/#/match-summary
+2018,women,2018-06-27,USA,Turkey,3,2,1,17,25,21,25,25,21,25.0,15.0,15.0,11.0,https://www.flashscore.com/match/EmpaGWSK/#/match-summary
+2018,women,2018-06-14,Argentina,USA,0,3,0,15,25,14,25,15,25,,,,,https://www.flashscore.com/match/MadtcWkp/#/match-summary
+2018,women,2018-06-14,South Korea,Serbia,0,3,0,17,25,20,25,11,25,,,,,https://www.flashscore.com/match/GIJD1CsT/#/match-summary
+2018,women,2018-06-14,Germany,Netherlands,1,3,0,21,25,16,25,26,24,19.0,25.0,,,https://www.flashscore.com/match/CSZP88Xb/#/match-summary
+2018,women,2018-06-14,Poland,Dominican Republic,1,3,0,18,25,25,16,21,25,20.0,25.0,,,https://www.flashscore.com/match/0MPp8dbo/#/match-summary
+2018,women,2018-06-14,Italy,Brazil,3,2,1,22,25,25,20,17,25,25.0,19.0,15.0,12.0,https://www.flashscore.com/match/U1H14EcA/#/match-summary
+2018,women,2018-06-14,China,Turkey,1,3,0,26,28,21,25,25,20,20.0,25.0,,,https://www.flashscore.com/match/t2vU7Sn5/#/match-summary
+2018,women,2018-06-14,Russia,Japan,3,2,1,19,25,25,14,25,16,23.0,25.0,15.0,10.0,https://www.flashscore.com/match/CjICa4fo/#/match-summary
+2018,women,2018-06-14,Belgium,Thailand,3,1,1,26,24,23,25,25,20,25.0,21.0,,,https://www.flashscore.com/match/nwSd5fr4/#/match-summary
+2018,women,2018-06-13,Argentina,Serbia,0,3,0,27,29,13,25,16,25,,,,,https://www.flashscore.com/match/YZapdj5j/#/match-summary
+2018,women,2018-06-13,South Korea,USA,0,3,0,13,25,23,25,19,25,,,,,https://www.flashscore.com/match/nwlSKZsi/#/match-summary
+2018,women,2018-06-13,Germany,Turkey,1,3,0,16,25,15,25,25,20,19.0,25.0,,,https://www.flashscore.com/match/jDoHAU2n/#/match-summary
+2018,women,2018-06-13,Poland,Russia,3,0,1,25,21,25,18,25,15,,,,,https://www.flashscore.com/match/KhwY6n2B/#/match-summary
+2018,women,2018-06-13,Italy,Belgium,3,0,1,25,22,25,18,25,19,,,,,https://www.flashscore.com/match/YZNh6zTc/#/match-summary
+2018,women,2018-06-13,China,Netherlands,1,3,0,24,26,25,17,17,25,21.0,25.0,,,https://www.flashscore.com/match/YyyM9lIh/#/match-summary
+2018,women,2018-06-13,Dominican Republic,Japan,2,3,0,15,25,25,14,25,21,27.0,29.0,13.0,15.0,https://www.flashscore.com/match/2HSx66HH/#/match-summary
+2018,women,2018-06-13,Brazil,Thailand,3,1,1,25,16,25,22,18,25,25.0,13.0,,,https://www.flashscore.com/match/vDOl7GDi/#/match-summary
+2018,women,2018-06-12,Argentina,South Korea,3,0,1,25,18,26,24,25,21,,,,,https://www.flashscore.com/match/r5syJDC3/#/match-summary
+2018,women,2018-06-12,Serbia,USA,3,1,1,30,28,23,25,25,20,25.0,18.0,,,https://www.flashscore.com/match/QTnWJgcc/#/match-summary
+2018,women,2018-06-12,Germany,China,2,3,0,25,20,27,25,17,25,23.0,25.0,8.0,15.0,https://www.flashscore.com/match/2H67jRHU/#/match-summary
+2018,women,2018-06-12,Poland,Japan,3,2,1,18,25,25,15,25,16,21.0,25.0,16.0,14.0,https://www.flashscore.com/match/AsWp4pnU/#/match-summary
+2018,women,2018-06-12,Italy,Thailand,3,0,1,25,11,25,17,25,15,,,,,https://www.flashscore.com/match/8hG53YCG/#/match-summary
+2018,women,2018-06-12,Russia,Dominican Republic,3,0,1,25,21,25,20,25,16,,,,,https://www.flashscore.com/match/GKWt5QWN/#/match-summary
+2018,women,2018-06-12,Turkey,Netherlands,2,3,0,11,25,29,31,25,16,25.0,20.0,10.0,15.0,https://www.flashscore.com/match/vwrDBAmt/#/match-summary
+2018,women,2018-06-12,Brazil,Belgium,3,1,1,25,15,25,14,21,25,25.0,23.0,,,https://www.flashscore.com/match/xSK92hSM/#/match-summary
+2018,women,2018-06-07,Poland,Belgium,3,1,1,22,25,25,22,27,25,25.0,14.0,,,https://www.flashscore.com/match/YyFjf9I5/#/match-summary
+2018,women,2018-06-07,Netherlands,Serbia,3,2,1,15,25,19,25,29,27,25.0,17.0,20.0,18.0,https://www.flashscore.com/match/h0WO2t58/#/match-summary
+2018,women,2018-06-07,Argentina,Germany,0,3,0,16,25,13,25,16,25,,,,,https://www.flashscore.com/match/SbEfgTXB/#/match-summary
+2018,women,2018-06-07,Dominican Republic,Italy,0,3,0,18,25,15,25,20,25,,,,,https://www.flashscore.com/match/4pwsvcS7/#/match-summary
+2018,women,2018-06-07,China,USA,0,3,0,20,25,22,25,20,25,,,,,https://www.flashscore.com/match/Q7JBgxSf/#/match-summary
+2018,women,2018-06-07,Thailand,Japan,2,3,0,25,19,25,20,17,25,19.0,25.0,20.0,22.0,https://www.flashscore.com/match/bJMwcBYn/#/match-summary
+2018,women,2018-06-07,South Korea,Turkey,0,3,0,19,25,21,25,23,25,,,,,https://www.flashscore.com/match/jgNZciJt/#/match-summary
+2018,women,2018-06-07,Brazil,Russia,3,2,1,15,25,25,21,25,20,19.0,25.0,17.0,15.0,https://www.flashscore.com/match/8WO6fICl/#/match-summary
+2018,women,2018-06-06,Poland,Germany,3,1,1,25,21,21,25,25,20,25.0,9.0,,,https://www.flashscore.com/match/KYAnek3a/#/match-summary
+2018,women,2018-06-06,Netherlands,Italy,2,3,0,25,18,23,25,25,19,15.0,25.0,8.0,15.0,https://www.flashscore.com/match/QgvwuwD1/#/match-summary
+2018,women,2018-06-06,Belgium,Argentina,3,0,1,25,22,25,16,25,14,,,,,https://www.flashscore.com/match/xALsdVmg/#/match-summary
+2018,women,2018-06-06,Serbia,Dominican Republic,3,0,1,25,19,25,20,25,13,,,,,https://www.flashscore.com/match/rVlYuJce/#/match-summary
+2018,women,2018-06-06,China,Russia,3,0,1,25,21,25,19,25,22,,,,,https://www.flashscore.com/match/UuQ2ebcr/#/match-summary
+2018,women,2018-06-06,Thailand,Turkey,1,3,0,20,25,28,30,25,18,19.0,25.0,,,https://www.flashscore.com/match/ETa6FJlE/#/match-summary
+2018,women,2018-06-06,Japan,South Korea,3,0,1,25,22,25,14,25,20,,,,,https://www.flashscore.com/match/COLNjzCD/#/match-summary
+2018,women,2018-06-06,USA,Brazil,3,1,1,25,23,26,28,25,21,25.0,18.0,,,https://www.flashscore.com/match/C0wy0vkR/#/match-summary
+2018,women,2018-06-05,Poland,Argentina,3,0,1,25,11,25,14,25,20,,,,,https://www.flashscore.com/match/OQ73i72O/#/match-summary
+2018,women,2018-06-05,Netherlands,Dominican Republic,3,0,1,25,22,25,21,25,18,,,,,https://www.flashscore.com/match/URpUtark/#/match-summary
+2018,women,2018-06-05,Germany,Belgium,3,1,1,25,19,25,21,22,25,25.0,23.0,,,https://www.flashscore.com/match/6kDbhmmI/#/match-summary
+2018,women,2018-06-05,Italy,Serbia,3,2,1,19,25,25,21,25,21,18.0,25.0,15.0,13.0,https://www.flashscore.com/match/z5oQsuTr/#/match-summary
+2018,women,2018-06-05,China,Brazil,2,3,0,25,19,23,25,25,27,25.0,10.0,14.0,16.0,https://www.flashscore.com/match/EFKX0KZK/#/match-summary
+2018,women,2018-06-05,Thailand,South Korea,1,3,0,16,25,18,25,25,20,24.0,26.0,,,https://www.flashscore.com/match/bLHJiGd7/#/match-summary
+2018,women,2018-06-05,Japan,Turkey,1,3,0,17,25,23,25,25,13,11.0,25.0,,,https://www.flashscore.com/match/4bIFhds1/#/match-summary
+2018,women,2018-06-05,Russia,USA,0,3,0,14,25,18,25,18,25,,,,,https://www.flashscore.com/match/WjVS10KE/#/match-summary
+2018,women,2018-05-31,Turkey,Serbia,2,3,0,20,25,25,22,25,18,23.0,25.0,12.0,15.0,https://www.flashscore.com/match/A1QAxpi3/#/match-summary
+2018,women,2018-05-31,Netherlands,Brazil,1,3,0,23,25,24,26,25,13,22.0,25.0,,,https://www.flashscore.com/match/KWclLrMS/#/match-summary
+2018,women,2018-05-31,Russia,Belgium,3,1,1,25,21,25,20,23,25,25.0,18.0,,,https://www.flashscore.com/match/SxLFy469/#/match-summary
+2018,women,2018-05-31,South Korea,Poland,0,3,0,11,25,15,25,16,25,,,,,https://www.flashscore.com/match/QeqoMO6M/#/match-summary
+2018,women,2018-05-31,China,Italy,1,3,0,18,25,14,25,25,16,18.0,25.0,,,https://www.flashscore.com/match/YeabnLKR/#/match-summary
+2018,women,2018-05-31,Thailand,USA,0,3,0,10,25,22,25,16,25,,,,,https://www.flashscore.com/match/QX22SaTe/#/match-summary
+2018,women,2018-05-31,Japan,Argentina,3,0,1,25,16,25,21,25,21,,,,,https://www.flashscore.com/match/hpr1m15L/#/match-summary
+2018,women,2018-05-31,Dominican Republic,Germany,1,3,0,22,25,15,25,25,21,12.0,25.0,,,https://www.flashscore.com/match/dbbbTuEk/#/match-summary
+2018,women,2018-05-30,Belgium,Serbia,0,3,0,20,25,16,25,14,25,,,,,https://www.flashscore.com/match/I7wPEtad/#/match-summary
+2018,women,2018-05-30,Netherlands,South Korea,3,0,1,25,18,25,10,25,12,,,,,https://www.flashscore.com/match/n5psN4iG/#/match-summary
+2018,women,2018-05-30,Turkey,Russia,2,3,0,23,25,25,19,25,23,20.0,25.0,11.0,15.0,https://www.flashscore.com/match/WAR6wQyc/#/match-summary
+2018,women,2018-05-30,Poland,Brazil,0,3,0,20,25,20,25,23,25,,,,,https://www.flashscore.com/match/4texOpxA/#/match-summary
+2018,women,2018-05-30,China,Japan,3,0,1,25,21,25,19,25,17,,,,,https://www.flashscore.com/match/4O16RJr2/#/match-summary
+2018,women,2018-05-30,Thailand,Germany,2,3,0,23,25,26,28,25,23,25.0,22.0,10.0,15.0,https://www.flashscore.com/match/I7afULbq/#/match-summary
+2018,women,2018-05-30,Argentina,Italy,0,3,0,15,25,16,25,18,25,,,,,https://www.flashscore.com/match/6Tukj3L2/#/match-summary
+2018,women,2018-05-30,Dominican Republic,USA,0,3,0,20,25,23,25,21,25,,,,,https://www.flashscore.com/match/CQMRY1jS/#/match-summary
+2018,women,2018-05-29,Serbia,Russia,3,0,1,25,23,25,19,25,18,,,,,https://www.flashscore.com/match/MupGG2Uq/#/match-summary
+2018,women,2018-05-29,Netherlands,Poland,3,0,1,25,22,25,22,27,25,,,,,https://www.flashscore.com/match/jwiYOQM3/#/match-summary
+2018,women,2018-05-29,Belgium,Turkey,0,3,0,19,25,18,25,24,26,,,,,https://www.flashscore.com/match/44ZKFMqj/#/match-summary
+2018,women,2018-05-29,South Korea,Brazil,1,3,0,11,25,14,25,33,31,20.0,25.0,,,https://www.flashscore.com/match/dGiUP67c/#/match-summary
+2018,women,2018-05-29,China,Argentina,3,0,1,25,22,25,16,25,12,,,,,https://www.flashscore.com/match/EgqclsjF/#/match-summary
+2018,women,2018-05-29,Thailand,Dominican Republic,0,3,0,21,25,22,25,20,25,,,,,https://www.flashscore.com/match/0jJNZsyM/#/match-summary
+2018,women,2018-05-29,Japan,Italy,3,2,1,20,25,25,23,20,25,25.0,23.0,15.0,11.0,https://www.flashscore.com/match/KWqgkNz9/#/match-summary
+2018,women,2018-05-29,Germany,USA,0,3,0,18,25,17,25,17,25,,,,,https://www.flashscore.com/match/6TJJzOLF/#/match-summary
+2018,women,2018-05-24,Turkey,Argentina,3,0,1,25,16,25,16,25,19,,,,,https://www.flashscore.com/match/GMg1MX05/#/match-summary
+2018,women,2018-05-24,China,Serbia,1,3,0,25,21,23,25,21,25,17.0,25.0,,,https://www.flashscore.com/match/8djgOgWh/#/match-summary
+2018,women,2018-05-24,Dominican Republic,Brazil,0,3,0,20,25,10,25,13,25,,,,,https://www.flashscore.com/match/boq6LiGB/#/match-summary
+2018,women,2018-05-24,Japan,Netherlands,0,3,0,18,25,18,25,21,25,,,,,https://www.flashscore.com/match/b1PrII9J/#/match-summary
+2018,women,2018-05-24,South Korea,Italy,0,3,0,17,25,21,25,21,25,,,,,https://www.flashscore.com/match/IRNW6h1I/#/match-summary
+2018,women,2018-05-24,Poland,Thailand,2,3,0,22,25,25,21,23,25,25.0,21.0,14.0,16.0,https://www.flashscore.com/match/xWfcNDoa/#/match-summary
+2018,women,2018-05-24,Germany,Russia,1,3,0,25,19,21,25,15,25,23.0,25.0,,,https://www.flashscore.com/match/xG6Z7YoC/#/match-summary
+2018,women,2018-05-24,Belgium,USA,0,3,0,11,25,18,25,17,25,,,,,https://www.flashscore.com/match/ddo0gZWI/#/match-summary
+2018,women,2018-05-23,Turkey,Dominican Republic,3,1,1,25,20,17,25,25,20,25.0,19.0,,,https://www.flashscore.com/match/ALnAKBVH/#/match-summary
+2018,women,2018-05-23,China,Thailand,3,1,1,25,23,26,24,22,25,25.0,17.0,,,https://www.flashscore.com/match/dIMz6CGO/#/match-summary
+2018,women,2018-05-23,Brazil,Argentina,3,0,1,25,9,25,21,25,14,,,,,https://www.flashscore.com/match/2HAw3q0p/#/match-summary
+2018,women,2018-05-23,Japan,Belgium,3,0,1,25,19,25,20,25,19,,,,,https://www.flashscore.com/match/xhOnHxPP/#/match-summary
+2018,women,2018-05-23,South Korea,Russia,3,0,1,25,19,25,14,25,17,,,,,https://www.flashscore.com/match/428R9fHa/#/match-summary
+2018,women,2018-05-23,Poland,Serbia,1,3,0,25,20,25,27,24,26,15.0,25.0,,,https://www.flashscore.com/match/ALAIUegP/#/match-summary
+2018,women,2018-05-23,Italy,Germany,3,0,1,25,22,25,18,25,20,,,,,https://www.flashscore.com/match/bP7V8EW5/#/match-summary
+2018,women,2018-05-23,Netherlands,USA,0,3,0,19,25,21,25,23,25,,,,,https://www.flashscore.com/match/UqGECdXt/#/match-summary
+2018,women,2018-05-22,Turkey,Brazil,1,3,0,17,25,19,25,25,23,21.0,25.0,,,https://www.flashscore.com/match/t89s23Fj/#/match-summary
+2018,women,2018-05-22,China,Poland,2,3,0,25,18,17,25,18,25,25.0,22.0,12.0,15.0,https://www.flashscore.com/match/ns2pQF1t/#/match-summary
+2018,women,2018-05-22,Argentina,Dominican Republic,0,3,0,24,26,24,26,19,25,,,,,https://www.flashscore.com/match/IPhQQnhi/#/match-summary
+2018,women,2018-05-22,Japan,USA,0,3,0,20,25,16,25,23,25,,,,,https://www.flashscore.com/match/bBSdfFHC/#/match-summary
+2018,women,2018-05-22,South Korea,Germany,3,1,1,23,25,26,24,25,16,25.0,16.0,,,https://www.flashscore.com/match/ja4NAz2g/#/match-summary
+2018,women,2018-05-22,Thailand,Serbia,1,3,0,18,25,23,25,25,19,19.0,25.0,,,https://www.flashscore.com/match/U5ikPZGn/#/match-summary
+2018,women,2018-05-22,Belgium,Netherlands,2,3,0,25,21,19,25,25,23,29.0,31.0,10.0,15.0,https://www.flashscore.com/match/4lThee26/#/match-summary
+2018,women,2018-05-22,Italy,Russia,0,3,0,24,26,12,25,23,25,,,,,https://www.flashscore.com/match/8zFIBGnm/#/match-summary
+2018,women,2018-05-17,USA,Italy,3,0,1,25,21,25,18,25,21,,,,,https://www.flashscore.com/match/xYe15uQD/#/match-summary
+2018,women,2018-05-17,Turkey,Poland,3,0,1,25,21,25,17,25,23,,,,,https://www.flashscore.com/match/AR7JtdmD/#/match-summary
+2019,women,2019-07-07,Brazil,USA,2,3,0,25,20,25,22,15,25,21.0,25.0,13.0,15.0,https://www.flashscore.com/match/2DCd8IT8/#/match-summary
+2019,women,2019-07-07,Turkey,China,1,3,0,23,25,15,25,25,20,21.0,25.0,,,https://www.flashscore.com/match/dlRa7xqF/#/match-summary
+2019,women,2019-07-06,USA,China,3,1,1,25,11,15,25,25,17,25.0,20.0,,,https://www.flashscore.com/match/2Rc3g5bj/#/match-summary
+2019,women,2019-07-06,Turkey,Brazil,0,3,0,23,25,15,25,10,25,,,,,https://www.flashscore.com/match/KOcETruR/#/match-summary
+2019,women,2019-07-05,China,Italy,3,1,1,25,17,25,22,22,25,25.0,22.0,,,https://www.flashscore.com/match/jmGnd2Jc/#/match-summary
+2019,women,2019-07-05,USA,Brazil,3,1,1,25,18,25,19,20,25,25.0,21.0,,,https://www.flashscore.com/match/tx9ag03G/#/match-summary
+2019,women,2019-07-04,Italy,Turkey,0,3,0,21,25,15,25,21,25,,,,,https://www.flashscore.com/match/xpCrcr4i/#/match-summary
+2019,women,2019-07-04,Brazil,Poland,3,2,1,22,25,25,21,22,25,25.0,19.0,15.0,10.0,https://www.flashscore.com/match/C24eftlA/#/match-summary
+2019,women,2019-07-03,China,Turkey,1,3,0,22,25,19,25,25,22,22.0,25.0,,,https://www.flashscore.com/match/OtO0YbRj/#/match-summary
+2019,women,2019-07-03,USA,Poland,3,1,1,21,25,25,16,25,15,26.0,24.0,,,https://www.flashscore.com/match/YB5ieMY3/#/match-summary
+2019,women,2019-06-20,Turkey,Brazil,3,2,1,25,23,24,26,25,20,23.0,25.0,16.0,14.0,https://www.flashscore.com/match/UwRc1kzo/#/match-summary
+2019,women,2019-06-20,Russia,Netherlands,0,3,0,12,25,25,27,17,25,,,,,https://www.flashscore.com/match/SUvW5VRT/#/match-summary
+2019,women,2019-06-20,Belgium,Italy,3,2,1,12,25,25,20,16,25,25.0,14.0,15.0,10.0,https://www.flashscore.com/match/Y7uS6BCN/#/match-summary
+2019,women,2019-06-20,China,Serbia,3,0,1,25,16,25,17,25,17,,,,,https://www.flashscore.com/match/K4yO7icH/#/match-summary
+2019,women,2019-06-20,Thailand,USA,0,3,0,13,25,20,25,17,25,,,,,https://www.flashscore.com/match/xtnJ8XsB/#/match-summary
+2019,women,2019-06-20,Germany,Bulgaria,3,0,1,25,21,25,20,25,13,,,,,https://www.flashscore.com/match/jPmBAgDb/#/match-summary
+2019,women,2019-06-20,South Korea,Poland,3,1,1,25,8,22,25,25,20,25.0,16.0,,,https://www.flashscore.com/match/bkmF9DS4/#/match-summary
+2019,women,2019-06-20,Japan,Dominican Republic,2,3,0,17,25,23,25,26,24,28.0,26.0,10.0,15.0,https://www.flashscore.com/match/CYl7BZch/#/match-summary
+2019,women,2019-06-19,Italy,Turkey,3,2,1,25,19,17,25,23,25,25.0,15.0,16.0,14.0,https://www.flashscore.com/match/U9a2CFrn/#/match-summary
+2019,women,2019-06-19,Russia,Thailand,1,3,0,25,19,13,25,17,25,22.0,25.0,,,https://www.flashscore.com/match/G6ebDeTu/#/match-summary
+2019,women,2019-06-19,Belgium,Brazil,0,3,0,23,25,15,25,18,25,,,,,https://www.flashscore.com/match/voKhhCcU/#/match-summary
+2019,women,2019-06-19,China,Bulgaria,3,0,1,25,18,25,19,25,16,,,,,https://www.flashscore.com/match/0fLlghrO/#/match-summary
+2019,women,2019-06-19,Netherlands,USA,2,3,0,21,25,25,23,25,22,26.0,28.0,9.0,15.0,https://www.flashscore.com/match/rJQqfYSH/#/match-summary
+2019,women,2019-06-19,Serbia,Germany,1,3,0,14,25,20,25,25,23,17.0,25.0,,,https://www.flashscore.com/match/A5Sydfb5/#/match-summary
+2019,women,2019-06-19,South Korea,Japan,3,0,1,25,18,25,18,25,23,,,,,https://www.flashscore.com/match/4SRueEDB/#/match-summary
+2019,women,2019-06-19,Poland,Dominican Republic,3,2,1,25,18,25,20,23,25,22.0,25.0,17.0,15.0,https://www.flashscore.com/match/CK9Ydzqa/#/match-summary
+2019,women,2019-06-18,Turkey,Belgium,1,3,0,27,25,24,26,21,25,23.0,25.0,,,https://www.flashscore.com/match/UeKTcGTh/#/match-summary
+2019,women,2019-06-18,Russia,USA,0,3,0,23,25,17,25,18,25,,,,,https://www.flashscore.com/match/j5LPbdEn/#/match-summary
+2019,women,2019-06-18,Brazil,Italy,3,0,1,25,21,25,20,25,23,,,,,https://www.flashscore.com/match/MVGLaxat/#/match-summary
+2019,women,2019-06-18,China,Germany,3,0,1,25,19,25,16,25,15,,,,,https://www.flashscore.com/match/KMUg4IjP/#/match-summary
+2019,women,2019-06-18,Netherlands,Thailand,3,0,1,25,18,25,20,25,16,,,,,https://www.flashscore.com/match/IHjBuZDO/#/match-summary
+2019,women,2019-06-18,Bulgaria,Serbia,3,1,1,21,25,25,21,25,17,25.0,23.0,,,https://www.flashscore.com/match/Aim3seqC/#/match-summary
+2019,women,2019-06-18,South Korea,Dominican Republic,1,3,0,19,25,25,20,24,26,28.0,30.0,,,https://www.flashscore.com/match/4En7tFbI/#/match-summary
+2019,women,2019-06-18,Japan,Poland,1,3,0,23,25,23,25,25,19,22.0,25.0,,,https://www.flashscore.com/match/W0laryU5/#/match-summary
+2019,women,2019-06-13,Germany,Netherlands,2,3,0,25,21,23,25,25,20,13.0,25.0,14.0,16.0,https://www.flashscore.com/match/jkX1qHEa/#/match-summary
+2019,women,2019-06-13,Italy,Russia,3,1,1,22,25,25,21,25,15,25.0,21.0,,,https://www.flashscore.com/match/CbYcpcag/#/match-summary
+2019,women,2019-06-13,Belgium,Dominican Republic,2,3,0,25,21,22,25,25,21,14.0,25.0,11.0,15.0,https://www.flashscore.com/match/IyZgowpm/#/match-summary
+2019,women,2019-06-13,South Korea,Bulgaria,1,3,0,25,20,23,25,19,25,24.0,26.0,,,https://www.flashscore.com/match/4YUknJUt/#/match-summary
+2019,women,2019-06-13,China,USA,0,3,0,17,25,22,25,21,25,,,,,https://www.flashscore.com/match/bihNjaMP/#/match-summary
+2019,women,2019-06-13,Japan,Thailand,3,0,1,25,22,25,22,25,14,,,,,https://www.flashscore.com/match/K0gJiu7J/#/match-summary
+2019,women,2019-06-13,Turkey,Poland,3,2,1,22,25,18,25,25,16,25.0,20.0,15.0,12.0,https://www.flashscore.com/match/Wp0yTeUI/#/match-summary
+2019,women,2019-06-13,Brazil,Serbia,3,0,1,25,23,25,21,25,15,,,,,https://www.flashscore.com/match/hf1XTyFC/#/match-summary
+2019,women,2019-06-12,Germany,Belgium,3,1,1,25,21,25,23,24,26,25.0,16.0,,,https://www.flashscore.com/match/AVBSUHa6/#/match-summary
+2019,women,2019-06-12,Italy,South Korea,3,1,1,25,17,25,21,23,25,25.0,13.0,,,https://www.flashscore.com/match/be8OVcp0/#/match-summary
+2019,women,2019-06-12,Dominican Republic,Netherlands,0,3,0,18,25,21,25,19,25,,,,,https://www.flashscore.com/match/4Y8KWwVg/#/match-summary
+2019,women,2019-06-12,Bulgaria,Russia,0,3,0,20,25,23,25,16,25,,,,,https://www.flashscore.com/match/QsAGXJFm/#/match-summary
+2019,women,2019-06-12,China,Turkey,3,0,1,26,24,25,19,25,21,,,,,https://www.flashscore.com/match/86FBYa0s/#/match-summary
+2019,women,2019-06-12,Japan,Serbia,3,1,1,19,25,25,14,25,23,25.0,14.0,,,https://www.flashscore.com/match/WthrjSVE/#/match-summary
+2019,women,2019-06-12,Poland,USA,1,3,0,25,21,23,25,15,25,11.0,25.0,,,https://www.flashscore.com/match/xKhvi8G8/#/match-summary
+2019,women,2019-06-12,Brazil,Thailand,3,0,1,25,19,25,17,25,21,,,,,https://www.flashscore.com/match/OGlzhl12/#/match-summary
+2019,women,2019-06-11,Germany,Dominican Republic,3,1,1,25,19,14,25,25,19,25.0,21.0,,,https://www.flashscore.com/match/KrOgqdc2/#/match-summary
+2019,women,2019-06-11,Italy,Bulgaria,3,0,1,25,19,25,23,25,20,,,,,https://www.flashscore.com/match/thPkpxrd/#/match-summary
+2019,women,2019-06-11,Belgium,Netherlands,3,2,1,22,25,23,25,25,17,25.0,19.0,15.0,10.0,https://www.flashscore.com/match/nHAnoISk/#/match-summary
+2019,women,2019-06-11,Russia,South Korea,3,1,1,25,23,15,25,25,20,25.0,17.0,,,https://www.flashscore.com/match/8QBrnbDq/#/match-summary
+2019,women,2019-06-11,China,Poland,3,0,1,25,12,25,18,25,22,,,,,https://www.flashscore.com/match/2qZFjv5S/#/match-summary
+2019,women,2019-06-11,Japan,Brazil,1,3,0,17,25,19,25,25,20,22.0,25.0,,,https://www.flashscore.com/match/ltVBiKkM/#/match-summary
+2019,women,2019-06-11,USA,Turkey,0,3,0,15,25,17,25,25,27,,,,,https://www.flashscore.com/match/fJV7h0zG/#/match-summary
+2019,women,2019-06-11,Serbia,Thailand,0,3,0,22,25,23,25,21,25,,,,,https://www.flashscore.com/match/GSW3gtL9/#/match-summary
+2019,women,2019-06-06,USA,Brazil,1,3,0,19,25,17,25,25,22,20.0,25.0,,,https://www.flashscore.com/match/bixafM53/#/match-summary
+2019,women,2019-06-06,Germany,South Korea,3,0,1,25,15,25,22,25,16,,,,,https://www.flashscore.com/match/K0wee2jc/#/match-summary
+2019,women,2019-06-06,Belgium,Serbia,3,0,1,25,21,25,21,25,14,,,,,https://www.flashscore.com/match/6ckDWIDd/#/match-summary
+2019,women,2019-06-06,Poland,Russia,3,2,1,25,23,24,26,25,27,25.0,20.0,15.0,9.0,https://www.flashscore.com/match/fNo9Xbbj/#/match-summary
+2019,women,2019-06-06,China,Italy,3,2,1,18,25,22,25,25,23,26.0,24.0,15.0,13.0,https://www.flashscore.com/match/Cbd4Yvqp/#/match-summary
+2019,women,2019-06-06,Thailand,Turkey,0,3,0,16,25,18,25,13,25,,,,,https://www.flashscore.com/match/AkAxwLzT/#/match-summary
+2019,women,2019-06-06,Japan,Netherlands,3,0,1,25,17,25,17,25,21,,,,,https://www.flashscore.com/match/tG5Yw1LM/#/match-summary
+2019,women,2019-06-06,Bulgaria,Dominican Republic,1,3,0,20,25,21,25,31,29,20.0,25.0,,,https://www.flashscore.com/match/2P6Uvs6G/#/match-summary
+2019,women,2019-06-05,USA,Germany,3,0,1,25,18,25,22,25,18,,,,,https://www.flashscore.com/match/K0HPuNjA/#/match-summary
+2019,women,2019-06-05,South Korea,Brazil,0,3,0,17,25,16,25,11,25,,,,,https://www.flashscore.com/match/6cDLt3y4/#/match-summary
+2019,women,2019-06-05,Belgium,Poland,1,3,0,22,25,25,21,18,25,23.0,25.0,,,https://www.flashscore.com/match/CzEHsqMc/#/match-summary
+2019,women,2019-06-05,Russia,Serbia,1,3,0,25,22,18,25,11,25,22.0,25.0,,,https://www.flashscore.com/match/YqFDrP6i/#/match-summary
+2019,women,2019-06-05,Netherlands,China,0,3,0,16,25,19,25,19,25,,,,,https://www.flashscore.com/match/Yi9xKuUj/#/match-summary
+2019,women,2019-06-05,Thailand,Dominican Republic,2,3,0,29,31,25,13,28,30,25.0,20.0,14.0,16.0,https://www.flashscore.com/match/f1AYKLEp/#/match-summary
+2019,women,2019-06-05,Italy,Japan,3,0,1,25,21,25,16,25,22,,,,,https://www.flashscore.com/match/xMN6P16T/#/match-summary
+2019,women,2019-06-05,Bulgaria,Turkey,0,3,0,14,25,9,25,23,25,,,,,https://www.flashscore.com/match/OIJ2QsiN/#/match-summary
+2019,women,2019-06-04,USA,South Korea,3,1,1,19,25,25,15,25,22,25.0,18.0,,,https://www.flashscore.com/match/tfUcRNyH/#/match-summary
+2019,women,2019-06-04,Brazil,Germany,2,3,0,25,21,29,31,25,21,20.0,25.0,13.0,15.0,https://www.flashscore.com/match/23VgS3MA/#/match-summary
+2019,women,2019-06-04,Belgium,Russia,3,0,1,25,22,25,20,25,22,,,,,https://www.flashscore.com/match/YTQkTq74/#/match-summary
+2019,women,2019-06-04,Serbia,Poland,3,0,1,27,25,25,21,25,22,,,,,https://www.flashscore.com/match/fwSoUPib/#/match-summary
+2019,women,2019-06-04,China,Japan,3,0,1,27,25,25,18,25,21,,,,,https://www.flashscore.com/match/CExsV5xh/#/match-summary
+2019,women,2019-06-04,Thailand,Bulgaria,3,1,1,25,27,25,20,25,22,25.0,22.0,,,https://www.flashscore.com/match/ETJwWoNo/#/match-summary
+2019,women,2019-06-04,Netherlands,Italy,1,3,0,13,25,25,22,19,25,16.0,25.0,,,https://www.flashscore.com/match/0QVe72po/#/match-summary
+2019,women,2019-06-04,Dominican Republic,Turkey,1,3,0,20,25,21,25,26,24,18.0,25.0,,,https://www.flashscore.com/match/bHqUBrxU/#/match-summary
+2019,women,2019-05-30,Serbia,Italy,1,3,0,27,25,17,25,25,27,23.0,25.0,,,https://www.flashscore.com/match/ttkPCOMN/#/match-summary
+2019,women,2019-05-30,Brazil,Bulgaria,3,0,1,25,18,25,23,25,18,,,,,https://www.flashscore.com/match/2kjLD47H/#/match-summary
+2019,women,2019-05-30,Dominican Republic,USA,3,2,1,25,10,16,25,25,19,19.0,25.0,15.0,11.0,https://www.flashscore.com/match/8SjHEphB/#/match-summary
+2019,women,2019-05-30,Poland,Netherlands,3,1,1,25,13,25,27,25,20,25.0,15.0,,,https://www.flashscore.com/match/C0c8G6Nb/#/match-summary
+2019,women,2019-05-30,Turkey,Russia,3,0,1,25,19,25,21,25,20,,,,,https://www.flashscore.com/match/fPnDFQx5/#/match-summary
+2019,women,2019-05-30,China,South Korea,3,0,1,25,21,25,12,25,11,,,,,https://www.flashscore.com/match/Y9b4Hn8h/#/match-summary
+2019,women,2019-05-30,Japan,Germany,3,0,1,25,23,25,19,25,17,,,,,https://www.flashscore.com/match/Qqa0IShn/#/match-summary
+2019,women,2019-05-30,Belgium,Thailand,3,0,1,25,21,25,22,25,23,,,,,https://www.flashscore.com/match/ng0dJ8wt/#/match-summary
+2019,women,2019-05-29,Netherlands,Bulgaria,3,1,1,22,25,25,22,25,20,25.0,19.0,,,https://www.flashscore.com/match/YBgpCiWC/#/match-summary
+2019,women,2019-05-29,USA,Italy,3,2,1,25,22,17,25,23,25,25.0,19.0,15.0,11.0,https://www.flashscore.com/match/nFclBBoJ/#/match-summary
+2019,women,2019-05-29,Serbia,Dominican Republic,3,1,1,25,17,18,25,25,12,25.0,19.0,,,https://www.flashscore.com/match/vkftDXG6/#/match-summary
+2019,women,2019-05-29,Germany,Turkey,0,3,0,21,25,16,25,15,25,,,,,https://www.flashscore.com/match/0bexED10/#/match-summary
+2019,women,2019-05-29,Poland,Brazil,3,2,1,25,20,25,22,26,28,18.0,25.0,15.0,9.0,https://www.flashscore.com/match/rN0XEgnf/#/match-summary
+2019,women,2019-05-29,China,Belgium,3,0,1,25,16,25,20,25,14,,,,,https://www.flashscore.com/match/4W1TFZWm/#/match-summary
+2019,women,2019-05-29,Japan,Russia,3,1,1,25,22,23,25,25,18,26.0,24.0,,,https://www.flashscore.com/match/A92PGFHs/#/match-summary
+2019,women,2019-05-29,South Korea,Thailand,1,3,0,21,25,25,19,19,25,20.0,25.0,,,https://www.flashscore.com/match/zHBcLe9Q/#/match-summary
+2019,women,2019-05-28,Italy,Dominican Republic,3,1,1,25,18,27,25,18,25,25.0,20.0,,,https://www.flashscore.com/match/hhMhMyfK/#/match-summary
+2019,women,2019-05-28,Netherlands,Brazil,2,3,0,25,21,28,30,20,25,25.0,18.0,11.0,15.0,https://www.flashscore.com/match/E1NlNHvE/#/match-summary
+2019,women,2019-05-28,USA,Serbia,3,1,1,23,25,25,16,25,15,25.0,21.0,,,https://www.flashscore.com/match/QoU6bY1D/#/match-summary
+2019,women,2019-05-28,Bulgaria,Poland,1,3,0,25,23,21,25,21,25,17.0,25.0,,,https://www.flashscore.com/match/4Wub0fX0/#/match-summary
+2019,women,2019-05-28,Turkey,Japan,0,3,0,23,25,22,25,14,25,,,,,https://www.flashscore.com/match/neV2aEn7/#/match-summary
+2019,women,2019-05-28,China,Thailand,3,0,1,25,21,25,17,25,9,,,,,https://www.flashscore.com/match/jTyf1zIf/#/match-summary
+2019,women,2019-05-28,Russia,Germany,0,3,0,14,25,21,25,20,25,,,,,https://www.flashscore.com/match/d6xj2G2l/#/match-summary
+2019,women,2019-05-28,Belgium,South Korea,0,3,0,15,25,17,25,21,25,,,,,https://www.flashscore.com/match/IFwn3dmr/#/match-summary
+2019,women,2019-05-23,Brazil,Russia,3,0,1,25,15,25,17,25,14,,,,,https://www.flashscore.com/match/SzKR7xuR/#/match-summary
+2019,women,2019-05-23,China,Dominican Republic,3,1,1,16,25,25,23,25,23,25.0,23.0,,,https://www.flashscore.com/match/lpLN8IPK/#/match-summary
+2019,women,2019-05-23,Thailand,Poland,0,3,0,20,25,20,25,13,25,,,,,https://www.flashscore.com/match/fNLJ9bAE/#/match-summary
+2019,women,2019-05-23,Turkey,Serbia,3,0,1,25,19,25,23,25,20,,,,,https://www.flashscore.com/match/tKHFAve8/#/match-summary
+2019,women,2019-05-23,USA,Bulgaria,3,0,1,25,20,25,16,25,21,,,,,https://www.flashscore.com/match/vFwXoeI7/#/match-summary
+2019,women,2019-05-23,Italy,Germany,3,0,1,25,19,26,24,27,25,,,,,https://www.flashscore.com/match/0OvTny31/#/match-summary
+2019,women,2019-05-23,Netherlands,South Korea,3,0,1,25,18,25,21,25,18,,,,,https://www.flashscore.com/match/WlzPmHme/#/match-summary
+2019,women,2019-05-23,Belgium,Japan,3,1,1,22,25,25,20,25,23,25.0,18.0,,,https://www.flashscore.com/match/hbyLlcYl/#/match-summary
+2019,women,2019-05-22,Brazil,Dominican Republic,1,3,0,22,25,20,25,25,22,26.0,28.0,,,https://www.flashscore.com/match/AZoGkwJr/#/match-summary
+2021,women,2021-06-25,Brazil,USA,1,3,0,28,26,23,25,23,25,21.0,25.0,,,https://www.flashscore.com/match/vZyKDIRd/#/match-summary
+2021,women,2021-06-25,Japan,Turkey,0,3,0,19,25,16,25,17,25,,,,,https://www.flashscore.com/match/IPzOCxs3/#/match-summary
+2021,women,2021-06-24,USA,Turkey,3,0,1,25,21,25,23,25,20,,,,,https://www.flashscore.com/match/08I4zUmr/#/match-summary
+2021,women,2021-06-24,Brazil,Japan,3,1,1,25,15,25,23,29,31,25.0,16.0,,,https://www.flashscore.com/match/CrM8Zm3l/#/match-summary
+2021,women,2021-06-20,Brazil,Turkey,3,1,1,25,18,25,16,25,27,25.0,15.0,,,https://www.flashscore.com/match/2oGBiqbU/#/match-summary
+2021,women,2021-06-20,Belgium,Canada,3,0,1,26,24,25,17,25,17,,,,,https://www.flashscore.com/match/hAeLBnqn/#/match-summary
+2021,women,2021-06-20,South Korea,Netherlands,2,3,0,20,25,25,23,18,25,25.0,22.0,12.0,15.0,https://www.flashscore.com/match/EPqU9QDb/#/match-summary
+2021,women,2021-06-20,Russia,Poland,2,3,0,17,25,25,20,16,25,25.0,22.0,7.0,15.0,https://www.flashscore.com/match/zZpQA6bh/#/match-summary
+2021,women,2021-06-20,Japan,Serbia,3,0,1,25,12,25,22,25,15,,,,,https://www.flashscore.com/match/80bX8pT4/#/match-summary
+2021,women,2021-06-20,Thailand,Italy,1,3,0,35,33,21,25,25,27,20.0,25.0,,,https://www.flashscore.com/match/nicy84rB/#/match-summary
+2021,women,2021-06-20,China,USA,3,0,1,25,10,25,20,25,17,,,,,https://www.flashscore.com/match/UFnt7OcH/#/match-summary
+2021,women,2021-06-20,Dominican Republic,Germany,3,2,1,25,21,25,22,14,25,25.0,27.0,15.0,9.0,https://www.flashscore.com/match/v7iHCSTu/#/match-summary
+2021,women,2021-06-19,Belgium,Italy,3,2,1,25,17,20,25,22,25,25.0,17.0,15.0,10.0,https://www.flashscore.com/match/v7VocmUh/#/match-summary
+2021,women,2021-06-19,Brazil,Netherlands,3,0,1,25,19,25,19,25,20,,,,,https://www.flashscore.com/match/WtSwa9at/#/match-summary
+2021,women,2021-06-19,South Korea,Turkey,1,3,0,23,25,25,20,17,25,18.0,25.0,,,https://www.flashscore.com/match/Y5OfeRb5/#/match-summary
+2021,women,2021-06-19,China,Poland,3,0,1,26,24,25,22,25,16,,,,,https://www.flashscore.com/match/OfH7hPrO/#/match-summary
+2021,women,2021-06-19,Thailand,Canada,3,0,1,25,16,25,17,25,17,,,,,https://www.flashscore.com/match/6JM2g5TH/#/match-summary
+2021,women,2021-06-19,Japan,Germany,3,1,1,25,23,19,25,26,24,25.0,15.0,,,https://www.flashscore.com/match/SSNbfoEB/#/match-summary
+2021,women,2021-06-19,USA,Russia,3,1,1,25,21,25,27,25,23,25.0,15.0,,,https://www.flashscore.com/match/MVKjd7qa/#/match-summary
+2021,women,2021-06-19,Dominican Republic,Serbia,3,0,1,25,14,25,20,25,18,,,,,https://www.flashscore.com/match/0GWsbTEn/#/match-summary
+2021,women,2021-06-18,Turkey,Netherlands,3,0,1,27,25,25,20,25,20,,,,,https://www.flashscore.com/match/SnpCpApm/#/match-summary
+2021,women,2021-06-18,Canada,Italy,0,3,0,18,25,20,25,20,25,,,,,https://www.flashscore.com/match/00rKrlFa/#/match-summary
+2021,women,2021-06-18,Poland,USA,0,3,0,27,29,27,29,14,25,,,,,https://www.flashscore.com/match/tCaHs8U5/#/match-summary
+2021,women,2021-06-18,China,Russia,3,0,1,25,18,25,23,25,16,,,,,https://www.flashscore.com/match/UXuC3kiP/#/match-summary
+2021,women,2021-06-18,South Korea,Brazil,0,3,0,18,25,23,25,18,25,,,,,https://www.flashscore.com/match/K2bLtSqC/#/match-summary
+2021,women,2021-06-18,Thailand,Belgium,1,3,0,23,25,24,26,25,23,15.0,25.0,,,https://www.flashscore.com/match/SS1Tv6EO/#/match-summary
+2021,women,2021-06-18,Japan,Dominican Republic,3,2,1,18,25,24,26,25,22,25.0,15.0,15.0,11.0,https://www.flashscore.com/match/EPcPunaI/#/match-summary
+2021,women,2021-06-18,Germany,Serbia,3,0,1,25,23,25,16,25,21,,,,,https://www.flashscore.com/match/M9qGqUag/#/match-summary
+2021,women,2021-06-14,USA,Turkey,3,1,1,25,21,23,25,25,15,25.0,14.0,,,https://www.flashscore.com/match/Eqt8ojVt/#/match-summary
+2021,women,2021-06-14,Brazil,Thailand,3,0,1,25,11,25,14,25,10,,,,,https://www.flashscore.com/match/tdBgSSUI/#/match-summary
+2021,women,2021-06-14,South Korea,Canada,3,2,1,15,25,25,18,27,29,25.0,20.0,21.0,19.0,https://www.flashscore.com/match/25CkT8FC/#/match-summary
+2021,women,2021-06-14,China,Italy,3,0,1,25,19,25,11,25,19,,,,,https://www.flashscore.com/match/KtNpUl06/#/match-summary
+2021,women,2021-06-14,Germany,Poland,3,0,1,25,23,25,20,25,23,,,,,https://www.flashscore.com/match/UB4yiC7J/#/match-summary
+2021,women,2021-06-14,Netherlands,Dominican Republic,1,3,0,23,25,25,23,28,30,22.0,25.0,,,https://www.flashscore.com/match/SY4wWAVg/#/match-summary
+2021,women,2021-06-14,Russia,Serbia,3,0,1,25,8,25,17,25,23,,,,,https://www.flashscore.com/match/Me4sVUp0/#/match-summary
+2021,women,2021-06-14,Belgium,Japan,1,3,0,25,23,22,25,21,25,21.0,25.0,,,https://www.flashscore.com/match/823ujWMP/#/match-summary
+2021,women,2021-06-13,Germany,Brazil,1,3,0,25,22,17,25,21,25,22.0,25.0,,,https://www.flashscore.com/match/nHpgiL12/#/match-summary
+2021,women,2021-06-13,Thailand,Poland,0,3,0,23,25,15,25,20,25,,,,,https://www.flashscore.com/match/fsl1kaWE/#/match-summary
+2021,women,2021-06-13,South Korea,Serbia,3,1,1,25,13,23,25,25,13,25.0,23.0,,,https://www.flashscore.com/match/0KlcjuH8/#/match-summary
+2021,women,2021-06-13,Russia,Canada,3,0,1,25,15,25,12,25,14,,,,,https://www.flashscore.com/match/4hL8q9rd/#/match-summary
+2021,women,2021-06-13,Dominican Republic,China,1,3,0,14,25,20,25,25,19,22.0,25.0,,,https://www.flashscore.com/match/rqKCrTc2/#/match-summary
+2021,women,2021-06-13,Italy,Netherlands,2,3,0,21,25,28,26,25,20,21.0,25.0,10.0,15.0,https://www.flashscore.com/match/dSL4pkTk/#/match-summary
+2021,women,2021-06-13,USA,Japan,3,0,1,25,23,26,24,25,20,,,,,https://www.flashscore.com/match/lr6ZWjGm/#/match-summary
+2021,women,2021-06-13,Turkey,Belgium,3,0,1,25,20,25,17,25,19,,,,,https://www.flashscore.com/match/W6BUXW0s/#/match-summary
+2021,women,2021-06-12,Poland,Brazil,0,3,0,22,25,20,25,23,25,,,,,https://www.flashscore.com/match/bitUjijM/#/match-summary
+2021,women,2021-06-12,Dominican Republic,Italy,3,1,1,25,21,25,19,22,25,26.0,24.0,,,https://www.flashscore.com/match/G80VVkEd/#/match-summary
+2021,women,2021-06-12,Canada,Serbia,3,1,1,25,21,22,25,25,21,25.0,18.0,,,https://www.flashscore.com/match/4UtQiXzG/#/match-summary
+2021,women,2021-06-12,China,Netherlands,3,0,1,25,12,25,18,33,31,,,,,https://www.flashscore.com/match/82mHgg63/#/match-summary
+2021,women,2021-06-12,USA,Belgium,3,0,1,25,9,26,24,25,20,,,,,https://www.flashscore.com/match/IyN0oVDq/#/match-summary
+2021,women,2021-06-12,Japan,Turkey,3,1,1,25,17,25,20,17,25,25.0,19.0,,,https://www.flashscore.com/match/CfpYkB5S/#/match-summary
+2021,women,2021-06-12,Thailand,Germany,3,1,1,24,26,25,21,25,21,25.0,16.0,,,https://www.flashscore.com/match/QwrMhDL9/#/match-summary
+2021,women,2021-06-12,Russia,South Korea,3,0,1,25,23,25,17,25,17,,,,,https://www.flashscore.com/match/UBlDfZjc/#/match-summary
+2021,women,2021-06-08,Italy,USA,1,3,0,18,25,21,25,25,20,16.0,25.0,,,https://www.flashscore.com/match/CzInvE6G/#/match-summary
+2021,women,2021-06-08,Belgium,Serbia,3,2,1,23,25,26,24,25,21,23.0,25.0,15.0,10.0,https://www.flashscore.com/match/MoPZtGMc/#/match-summary
+2021,women,2021-06-08,Germany,South Korea,3,0,1,25,12,25,21,25,22,,,,,https://www.flashscore.com/match/K0LfxhyT/#/match-summary
+2021,women,2021-06-08,China,Brazil,3,2,1,18,25,25,22,25,20,14.0,25.0,15.0,12.0,https://www.flashscore.com/match/G8Owtzx4/#/match-summary
+2021,women,2021-06-08,Japan,Poland,3,2,1,22,25,22,25,25,22,25.0,23.0,16.0,14.0,https://www.flashscore.com/match/M97MXBqp/#/match-summary
+2021,women,2021-06-08,Canada,Netherlands,0,3,0,19,25,12,25,21,25,,,,,https://www.flashscore.com/match/4YdRWVbj/#/match-summary
+2021,women,2021-06-08,Turkey,Russia,3,2,1,25,22,22,25,25,18,18.0,25.0,15.0,7.0,https://www.flashscore.com/match/jRGjwYLM/#/match-summary
+2021,women,2021-06-08,Thailand,Dominican Republic,0,3,0,16,25,17,25,23,25,,,,,https://www.flashscore.com/match/UBSsufiA/#/match-summary
+2021,women,2021-06-07,Belgium,Brazil,0,3,0,18,25,16,25,17,25,,,,,https://www.flashscore.com/match/dUM8SG74/#/match-summary
+2021,women,2021-06-07,Germany,Italy,0,3,0,21,25,19,25,11,25,,,,,https://www.flashscore.com/match/I16iKhFp/#/match-summary
+2021,women,2021-06-07,Poland,Netherlands,2,3,0,25,21,23,25,25,22,21.0,25.0,9.0,15.0,https://www.flashscore.com/match/dh5eJCUj/#/match-summary
+2021,women,2021-06-07,South Korea,USA,0,3,0,16,25,12,25,15,25,,,,,https://www.flashscore.com/match/nJFLPEiN/#/match-summary
+2021,women,2021-06-07,China,Serbia,1,3,0,22,25,18,25,25,20,22.0,25.0,,,https://www.flashscore.com/match/Q3RCRzNA/#/match-summary
+2021,women,2021-06-07,Canada,Japan,0,3,0,16,25,15,25,15,25,,,,,https://www.flashscore.com/match/reQVsd7i/#/match-summary
+2021,women,2021-06-07,Turkey,Dominican Republic,1,3,0,22,25,21,25,25,23,17.0,25.0,,,https://www.flashscore.com/match/0MJPOY6T/#/match-summary
+2021,women,2021-06-07,Russia,Thailand,3,1,1,25,14,18,25,25,14,25.0,20.0,,,https://www.flashscore.com/match/4fQGQfxH/#/match-summary
+2021,women,2021-06-06,Germany,USA,0,3,0,23,25,13,25,13,25,,,,,https://www.flashscore.com/match/OvVeVINo/#/match-summary
+2021,women,2021-06-06,Italy,South Korea,3,1,1,27,25,23,25,25,22,25.0,20.0,,,https://www.flashscore.com/match/8SfnBFxU/#/match-summary
+2021,women,2021-06-06,Canada,Poland,2,3,0,25,22,25,21,21,25,17.0,25.0,7.0,15.0,https://www.flashscore.com/match/IwO4Tdhb/#/match-summary
+2021,women,2021-06-06,Brazil,Serbia,3,0,1,25,12,25,14,25,13,,,,,https://www.flashscore.com/match/Iw2ZDHhB/#/match-summary
+2021,women,2021-06-06,Dominican Republic,Russia,2,3,0,18,25,25,21,20,25,25.0,22.0,8.0,15.0,https://www.flashscore.com/match/ji0sCeNN/#/match-summary
+2021,women,2021-06-06,Turkey,Thailand,3,1,1,23,25,25,12,25,20,25.0,9.0,,,https://www.flashscore.com/match/AysE6Zpo/#/match-summary
+2021,women,2021-06-06,Japan,Netherlands,0,3,0,22,25,20,25,23,25,,,,,https://www.flashscore.com/match/zFYaUxwh/#/match-summary
+2021,women,2021-06-06,China,Belgium,2,3,0,25,17,25,27,25,23,21.0,25.0,8.0,15.0,https://www.flashscore.com/match/C01wDy8H/#/match-summary
+2021,women,2021-06-02,Brazil,Italy,3,1,1,19,25,25,15,25,19,25.0,19.0,,,https://www.flashscore.com/match/4zbVEcw5/#/match-summary
+2021,women,2021-06-02,Netherlands,Serbia,3,1,1,25,22,25,16,18,25,25.0,21.0,,,https://www.flashscore.com/match/zeAIHagn/#/match-summary
+2021,women,2021-06-02,Poland,Dominican Republic,1,3,0,25,22,22,25,26,28,21.0,25.0,,,https://www.flashscore.com/match/d4BEIuvt/#/match-summary
+2021,women,2021-06-02,China,Turkey,0,3,0,15,25,23,25,21,25,,,,,https://www.flashscore.com/match/rN42BOWC/#/match-summary
+2021,women,2021-06-02,Japan,Russia,3,0,1,25,20,25,21,25,21,,,,,https://www.flashscore.com/match/MB8QFwOb/#/match-summary
+2021,women,2021-06-02,Germany,Canada,0,3,0,28,30,25,27,14,25,,,,,https://www.flashscore.com/match/l05bC4H6/#/match-summary
+2021,women,2021-06-02,Thailand,USA,0,3,0,17,25,14,25,16,25,,,,,https://www.flashscore.com/match/dQ86ArnJ/#/match-summary
+2021,women,2021-06-02,Belgium,South Korea,3,2,1,23,25,25,23,25,16,19.0,25.0,15.0,12.0,https://www.flashscore.com/match/rL9MGJ8h/#/match-summary
+2021,women,2021-06-01,Brazil,Russia,3,0,1,25,20,25,11,25,18,,,,,https://www.flashscore.com/match/A96fDp20/#/match-summary
+2021,women,2021-06-01,Italy,Japan,2,3,0,25,27,19,25,25,16,25.0,21.0,13.0,15.0,https://www.flashscore.com/match/hYBkEQnf/#/match-summary
+2021,women,2021-06-01,USA,Netherlands,3,0,1,25,22,25,15,25,18,,,,,https://www.flashscore.com/match/GhIBL8fK/#/match-summary
+2021,women,2021-06-01,China,Canada,2,3,0,22,25,25,21,17,25,25.0,15.0,12.0,15.0,https://www.flashscore.com/match/x2J7MluE/#/match-summary
+2021,women,2021-06-01,Serbia,Thailand,3,0,1,25,19,25,23,25,23,,,,,https://www.flashscore.com/match/KKDsGnIs/#/match-summary
+2021,women,2021-06-01,Belgium,Poland,3,2,1,25,15,17,25,25,19,22.0,25.0,15.0,12.0,https://www.flashscore.com/match/EsDoF6Xm/#/match-summary
+2021,women,2021-06-01,Dominican Republic,South Korea,3,0,1,25,23,28,26,25,18,,,,,https://www.flashscore.com/match/bH7GKS9Q/#/match-summary
+2021,women,2021-06-01,Turkey,Germany,3,0,1,25,20,25,20,25,22,,,,,https://www.flashscore.com/match/lnQPc52D/#/match-summary
+2021,women,2021-05-31,Russia,Italy,3,0,1,26,24,25,23,27,25,,,,,https://www.flashscore.com/match/SWyHaRX0/#/match-summary
+2021,women,2021-05-31,Serbia,USA,0,3,0,20,25,16,25,12,25,,,,,https://www.flashscore.com/match/ETXC07If/#/match-summary
+2021,women,2021-05-31,South Korea,Poland,0,3,0,15,25,20,25,22,25,,,,,https://www.flashscore.com/match/K6Y81m3l/#/match-summary
+2021,women,2021-05-31,Canada,Turkey,2,3,0,23,25,25,19,25,22,23.0,25.0,12.0,15.0,https://www.flashscore.com/match/4YWy9VAE/#/match-summary
+2021,women,2021-05-31,Brazil,Japan,3,0,1,25,15,25,19,25,21,,,,,https://www.flashscore.com/match/AeRLbom7/#/match-summary
+2021,women,2021-05-31,China,Germany,3,2,1,20,25,19,25,27,25,25.0,21.0,15.0,9.0,https://www.flashscore.com/match/xnVq79uR/#/match-summary
+2021,women,2021-05-31,Belgium,Dominican Republic,3,2,1,31,33,19,25,25,20,25.0,16.0,15.0,11.0,https://www.flashscore.com/match/beWu8kQK/#/match-summary
+2021,women,2021-05-31,Thailand,Netherlands,0,3,0,20,25,9,25,18,25,,,,,https://www.flashscore.com/match/tGZ42Tmr/#/match-summary
+2021,women,2021-05-27,Serbia,Italy,3,1,1,25,18,23,25,26,24,25.0,20.0,,,https://www.flashscore.com/match/AZkon831/#/match-summary
+2021,women,2021-05-27,Brazil,USA,1,3,0,17,25,19,25,25,23,22.0,25.0,,,https://www.flashscore.com/match/jVSX9Be8/#/match-summary
+2021,women,2021-05-27,Poland,Turkey,1,3,0,23,25,27,25,23,25,20.0,25.0,,,https://www.flashscore.com/match/29nwlUYl/#/match-summary
+2021,women,2021-05-27,China,Thailand,3,0,1,25,15,25,15,25,23,,,,,https://www.flashscore.com/match/ph66gjBR/#/match-summary
+2021,women,2021-05-27,Canada,Dominican Republic,1,3,0,17,25,24,26,30,28,16.0,25.0,,,https://www.flashscore.com/match/lQlkoSI7/#/match-summary
+2021,women,2021-05-27,South Korea,Japan,0,3,0,18,25,18,25,25,27,,,,,https://www.flashscore.com/match/jV62fWeL/#/match-summary
+2021,women,2021-05-27,Russia,Netherlands,1,3,0,14,25,22,25,25,23,20.0,25.0,,,https://www.flashscore.com/match/KpcYlAJr/#/match-summary
+2021,women,2021-05-27,Germany,Belgium,3,0,1,25,20,25,19,25,13,,,,,https://www.flashscore.com/match/t0osmlle/#/match-summary
+2021,women,2021-05-26,USA,Canada,3,0,1,26,24,25,15,25,10,,,,,https://www.flashscore.com/match/f3DgdhR8/#/match-summary
+2021,women,2021-05-26,Turkey,Italy,3,0,1,25,13,25,23,25,16,,,,,https://www.flashscore.com/match/GCEkcYB2/#/match-summary
+2021,women,2021-05-26,Brazil,Dominican Republic,3,0,1,25,20,25,13,25,17,,,,,https://www.flashscore.com/match/Cv8beCtF/#/match-summary
+2021,women,2021-05-26,Serbia,Poland,3,1,1,20,25,25,17,25,16,25.0,21.0,,,https://www.flashscore.com/match/l6M3ZUJe/#/match-summary
+2021,women,2021-05-26,Belgium,Russia,2,3,0,25,23,25,21,19,25,19.0,25.0,8.0,15.0,https://www.flashscore.com/match/6sXbzB4k/#/match-summary
+2021,women,2021-05-26,China,Japan,0,3,0,13,25,19,25,17,25,,,,,https://www.flashscore.com/match/SjYfyikq/#/match-summary
+2021,women,2021-05-26,Thailand,South Korea,1,3,0,25,15,13,25,18,25,17.0,25.0,,,https://www.flashscore.com/match/AcWTuXtS/#/match-summary
+2021,women,2021-05-26,Netherlands,Germany,2,3,0,25,18,18,25,30,28,23.0,25.0,12.0,15.0,https://www.flashscore.com/match/29Q7YlZ1/#/match-summary
+2022,women,2022-07-17,Italy,Brazil,3,0,1,25,23,25,22,25,22,,,,,https://www.flashscore.com/match/GfkGCRh7/#/match-summary
+2022,women,2022-07-17,Turkey,Serbia,0,3,0,25,27,17,25,24,26,,,,,https://www.flashscore.com/match/bJfBD7w1/#/match-summary
+2022,women,2022-07-16,Turkey,Italy,0,3,0,18,25,26,28,22,25,,,,,https://www.flashscore.com/match/IqcDnDhf/#/match-summary
+2022,women,2022-07-16,Serbia,Brazil,1,3,0,25,14,18,25,24,26,19.0,25.0,,,https://www.flashscore.com/match/hz7sscEH/#/match-summary
+2022,women,2022-07-14,Turkey,Thailand,3,1,1,23,25,25,15,25,18,25.0,21.0,,,https://www.flashscore.com/match/pQFCSHG0/#/match-summary
+2022,women,2022-07-14,Italy,China,3,1,1,25,22,25,19,24,26,25.0,22.0,,,https://www.flashscore.com/match/fyNaVJWs/#/match-summary
+2022,women,2022-07-13,USA,Serbia,2,3,0,27,29,23,25,25,20,25.0,20.0,13.0,15.0,https://www.flashscore.com/match/lbM3Uwnl/#/match-summary
+2022,women,2022-07-13,Brazil,Japan,3,1,1,29,27,28,26,20,25,25.0,14.0,,,https://www.flashscore.com/match/hSzYZaOQ/#/match-summary
+2022,women,2022-07-03,Netherlands,Canada,3,1,1,22,25,27,25,26,24,25.0,23.0,,,https://www.flashscore.com/match/fu1iMTAI/#/match-summary
+2022,women,2022-07-03,USA,Germany,3,1,1,25,17,25,13,13,25,25.0,22.0,,,https://www.flashscore.com/match/0I1mN9eC/#/match-summary
+2022,women,2022-07-03,Belgium,Japan,3,2,1,25,16,18,25,25,19,11.0,25.0,15.0,10.0,https://www.flashscore.com/match/nFcqOkt6/#/match-summary
+2022,women,2022-07-03,Poland,Bulgaria,1,3,0,25,22,13,25,17,25,22.0,25.0,,,https://www.flashscore.com/match/8Yyp8LAF/#/match-summary
+2022,women,2022-07-03,Thailand,Italy,0,3,0,20,25,14,25,14,25,,,,,https://www.flashscore.com/match/j7EHWMS8/#/match-summary
+2022,women,2022-07-03,China,South Korea,3,1,1,25,13,19,25,25,19,26.0,24.0,,,https://www.flashscore.com/match/bXDLVtrF/#/match-summary
+2022,women,2022-07-02,Germany,Canada,3,1,1,25,19,19,25,27,25,25.0,23.0,,,https://www.flashscore.com/match/IZ5SRXts/#/match-summary
+2022,women,2022-07-02,Japan,Serbia,1,3,0,25,22,20,25,19,25,22.0,25.0,,,https://www.flashscore.com/match/xxhbq0CE/#/match-summary
+2022,women,2022-07-02,Turkey,USA,2,3,0,22,25,25,18,25,27,25.0,23.0,16.0,18.0,https://www.flashscore.com/match/viZfptc8/#/match-summary
+2022,women,2022-07-02,Italy,Bulgaria,3,0,1,25,12,25,19,25,21,,,,,https://www.flashscore.com/match/jB6NLvuF/#/match-summary
+2022,women,2022-07-02,Brazil,Thailand,3,1,1,25,18,26,24,23,25,25.0,23.0,,,https://www.flashscore.com/match/ULi4NIke/#/match-summary
+2022,women,2022-07-02,Dominican Republic,Poland,3,2,1,20,25,38,36,25,20,13.0,25.0,15.0,9.0,https://www.flashscore.com/match/ncn9Mx51/#/match-summary
+2022,women,2022-07-01,Serbia,Canada,3,1,1,25,20,25,14,20,25,25.0,22.0,,,https://www.flashscore.com/match/jVh0Obzk/#/match-summary
+2022,women,2022-07-01,Turkey,Japan,3,1,1,25,20,25,15,18,25,25.0,22.0,,,https://www.flashscore.com/match/d8gdPvLr/#/match-summary
+2022,women,2022-07-01,Belgium,Netherlands,1,3,0,25,21,24,26,20,25,21.0,25.0,,,https://www.flashscore.com/match/Kn2UTKCR/#/match-summary
+2022,women,2022-07-01,Brazil,Bulgaria,3,0,1,25,21,25,20,25,18,,,,,https://www.flashscore.com/match/fVXu91e9/#/match-summary
+2022,women,2022-07-01,Italy,South Korea,3,1,1,25,17,23,25,25,15,25.0,19.0,,,https://www.flashscore.com/match/Qa9zQBBg/#/match-summary
+2022,women,2022-07-01,China,Dominican Republic,3,0,1,25,19,25,16,25,15,,,,,https://www.flashscore.com/match/dQ4WQidm/#/match-summary
+2022,women,2022-06-30,USA,Serbia,3,0,1,25,17,33,31,25,16,,,,,https://www.flashscore.com/match/CGFDX2D2/#/match-summary
+2022,women,2022-06-30,Germany,Belgium,3,1,1,20,25,25,18,25,22,25.0,20.0,,,https://www.flashscore.com/match/AByV8Jz2/#/match-summary
+2022,women,2022-06-30,Turkey,Netherlands,3,0,1,25,23,25,11,25,21,,,,,https://www.flashscore.com/match/d8XQ9aLe/#/match-summary
+2022,women,2022-06-30,South Korea,Brazil,0,3,0,17,25,19,25,13,25,,,,,https://www.flashscore.com/match/r1ijG1rS/#/match-summary
+2022,women,2022-06-30,Poland,China,0,3,0,8,25,23,25,20,25,,,,,https://www.flashscore.com/match/2oYMAu6k/#/match-summary
+2022,women,2022-06-30,Thailand,Dominican Republic,1,3,0,25,22,23,25,23,25,21.0,25.0,,,https://www.flashscore.com/match/OfZIBLjq/#/match-summary
+2022,women,2022-06-29,Belgium,USA,0,3,0,16,25,21,25,19,25,,,,,https://www.flashscore.com/match/4AhnHsTL/#/match-summary
+2022,women,2022-06-29,Japan,Netherlands,2,3,0,25,23,20,25,26,24,21.0,25.0,10.0,15.0,https://www.flashscore.com/match/AmgrINDF/#/match-summary
+2022,women,2022-06-29,Italy,Poland,3,1,1,25,27,25,20,28,26,25.0,18.0,,,https://www.flashscore.com/match/Ai9qcMyj/#/match-summary
+2022,women,2022-06-29,Thailand,South Korea,3,0,1,25,11,25,22,25,17,,,,,https://www.flashscore.com/match/SSJvb2Mq/#/match-summary
+2022,women,2022-06-28,Canada,Turkey,3,1,1,25,22,21,25,25,22,25.0,23.0,,,https://www.flashscore.com/match/xb1VKPTd/#/match-summary
+2022,women,2022-06-28,Serbia,Germany,3,1,1,17,25,25,16,25,21,25.0,18.0,,,https://www.flashscore.com/match/lr8mdtid/#/match-summary
+2022,women,2022-06-28,Dominican Republic,Bulgaria,0,3,0,15,25,13,25,21,25,,,,,https://www.flashscore.com/match/08YyAst3/#/match-summary
+2022,women,2022-06-28,China,Brazil,2,3,0,20,25,23,25,25,18,25.0,21.0,11.0,15.0,https://www.flashscore.com/match/Gl0ZJqq3/#/match-summary
+2022,women,2022-06-19,Turkey,South Korea,3,1,1,20,25,25,13,25,19,25.0,15.0,,,https://www.flashscore.com/match/j7SC2rES/#/match-summary
+2022,women,2022-06-19,Germany,Dominican Republic,1,3,0,23,25,23,25,25,11,25.0,27.0,,,https://www.flashscore.com/match/dpT83ObM/#/match-summary
+2022,women,2022-06-19,Brazil,Serbia,3,0,1,25,21,25,9,25,21,,,,,https://www.flashscore.com/match/IgU444qG/#/match-summary
+2022,women,2022-06-19,Japan,China,3,1,1,19,25,25,16,25,23,25.0,12.0,,,https://www.flashscore.com/match/jXc85pU9/#/match-summary
+2022,women,2022-06-19,Thailand,USA,1,3,0,25,17,13,25,23,25,18.0,25.0,,,https://www.flashscore.com/match/Cta46QE3/#/match-summary
+2022,women,2022-06-19,Bulgaria,Belgium,2,3,0,22,25,23,25,25,20,25.0,20.0,15.0,17.0,https://www.flashscore.com/match/YZBIMKP8/#/match-summary
+2022,women,2022-06-18,Netherlands,South Korea,3,0,1,25,11,25,21,25,18,,,,,https://www.flashscore.com/match/4Ged8npi/#/match-summary
+2022,women,2022-06-18,Germany,Turkey,0,3,0,22,25,21,25,22,25,,,,,https://www.flashscore.com/match/2BHDq37j/#/match-summary
+2022,women,2022-06-18,Italy,Brazil,3,1,1,25,17,25,15,14,25,25.0,14.0,,,https://www.flashscore.com/match/OKI9pqhp/#/match-summary
+2022,women,2022-06-18,USA,China,3,0,1,25,21,25,23,25,21,,,,,https://www.flashscore.com/match/WSQskPqT/#/match-summary
+2022,women,2022-06-18,Belgium,Poland,3,2,1,25,20,15,25,25,22,22.0,25.0,15.0,13.0,https://www.flashscore.com/match/hxSwj5UM/#/match-summary
+2022,women,2022-06-18,Bulgaria,Canada,3,0,1,26,24,25,22,25,21,,,,,https://www.flashscore.com/match/fqDEN0A2/#/match-summary
+2022,women,2022-06-17,Netherlands,Dominican Republic,2,3,0,25,23,20,25,21,25,25.0,15.0,7.0,15.0,https://www.flashscore.com/match/bwZUiRaA/#/match-summary
+2022,women,2022-06-17,Serbia,Turkey,3,2,1,25,19,15,25,20,25,25.0,22.0,15.0,13.0,https://www.flashscore.com/match/4GZQh7p4/#/match-summary
+2022,women,2022-06-17,Germany,Italy,0,3,0,19,25,22,25,25,27,,,,,https://www.flashscore.com/match/QPzNgmVc/#/match-summary
+2022,women,2022-06-17,Japan,Thailand,3,0,1,25,22,25,16,25,14,,,,,https://www.flashscore.com/match/8ltIfTFi/#/match-summary
+2022,women,2022-06-17,China,Canada,3,1,1,25,16,18,25,25,12,25.0,18.0,,,https://www.flashscore.com/match/UcsEe90o/#/match-summary
+2022,women,2022-06-17,Poland,USA,0,3,0,12,25,21,25,16,25,,,,,https://www.flashscore.com/match/GfgWWPNp/#/match-summary
+2022,women,2022-06-16,Netherlands,Brazil,0,3,0,16,25,15,25,23,25,,,,,https://www.flashscore.com/match/4IQ2lhgI/#/match-summary
+2022,women,2022-06-16,Italy,Dominican Republic,3,2,1,25,23,20,25,25,19,16.0,25.0,15.0,12.0,https://www.flashscore.com/match/MgybkYwC/#/match-summary
+2022,women,2022-06-16,Serbia,South Korea,3,0,1,40,38,25,22,25,22,,,,,https://www.flashscore.com/match/r3xfjEO5/#/match-summary
+2022,women,2022-06-16,Bulgaria,Japan,0,3,0,20,25,16,25,23,25,,,,,https://www.flashscore.com/match/ttPWbHX1/#/match-summary
+2022,women,2022-06-16,Canada,Belgium,3,1,1,25,22,25,21,22,25,25.0,22.0,,,https://www.flashscore.com/match/dnvnhzfg/#/match-summary
+2022,women,2022-06-16,Poland,Thailand,3,2,1,22,25,27,29,25,16,25.0,16.0,15.0,13.0,https://www.flashscore.com/match/ENlsgGvm/#/match-summary
+2022,women,2022-06-15,Brazil,Turkey,3,1,1,19,25,25,23,25,23,25.0,23.0,,,https://www.flashscore.com/match/0KpwfdPt/#/match-summary
+2022,women,2022-06-15,Dominican Republic,South Korea,3,0,1,25,21,25,17,25,13,,,,,https://www.flashscore.com/match/rubBbxHP/#/match-summary
+2022,women,2022-06-15,China,Belgium,3,0,1,25,19,25,22,25,14,,,,,https://www.flashscore.com/match/4la7aI1J/#/match-summary
+2022,women,2022-06-15,Bulgaria,USA,0,3,0,20,25,22,25,20,25,,,,,https://www.flashscore.com/match/re6TacIe/#/match-summary
+2022,women,2022-06-14,Serbia,Italy,1,3,0,25,21,14,25,15,25,20.0,25.0,,,https://www.flashscore.com/match/nDUMi6rD/#/match-summary
+2022,women,2022-06-14,Netherlands,Germany,1,3,0,20,25,19,25,25,12,22.0,25.0,,,https://www.flashscore.com/match/hjVIhnT6/#/match-summary
+2022,women,2022-06-14,Japan,Poland,3,0,1,25,21,25,21,25,21,,,,,https://www.flashscore.com/match/f5CFgSD0/#/match-summary
+2022,women,2022-06-14,Canada,Thailand,0,3,0,19,25,22,25,24,26,,,,,https://www.flashscore.com/match/CtNAf8bf/#/match-summary
+2022,women,2022-06-05,South Korea,Canada,0,3,0,21,25,13,25,16,25,,,,,https://www.flashscore.com/match/YkO6elql/#/match-summary
+2022,women,2022-06-05,Japan,USA,3,0,1,25,22,25,20,25,20,,,,,https://www.flashscore.com/match/4GJ2dUTs/#/match-summary
+2022,women,2022-06-05,Poland,Germany,3,2,1,27,25,25,22,14,25,23.0,25.0,15.0,7.0,https://www.flashscore.com/match/27Xz1ALQ/#/match-summary
+2022,women,2022-06-05,Turkey,Belgium,3,1,1,15,25,25,21,25,21,25.0,15.0,,,https://www.flashscore.com/match/KrrW1j6K/#/match-summary
+2022,women,2022-06-05,Thailand,China,3,2,1,25,23,13,25,14,25,25.0,23.0,15.0,11.0,https://www.flashscore.com/match/hxjpvmED/#/match-summary
+2022,women,2022-06-05,Serbia,Netherlands,3,2,1,27,25,25,16,17,25,22.0,25.0,15.0,13.0,https://www.flashscore.com/match/6uvS2WjE/#/match-summary
+2022,women,2022-06-04,USA,Brazil,3,0,1,25,21,25,20,25,18,,,,,https://www.flashscore.com/match/EoituTb7/#/match-summary
+2022,women,2022-06-04,Dominican Republic,Japan,1,3,0,17,25,25,20,21,25,10.0,25.0,,,https://www.flashscore.com/match/YZZrt9q1/#/match-summary
+2022,women,2022-06-04,South Korea,Poland,0,3,0,9,25,23,25,11,25,,,,,https://www.flashscore.com/match/fqyuskUf/#/match-summary
+2022,women,2022-06-04,Bulgaria,Turkey,0,3,0,19,25,21,25,16,25,,,,,https://www.flashscore.com/match/0WGO0w3k/#/match-summary
+2022,women,2022-06-04,China,Italy,3,1,1,25,13,20,25,25,22,25.0,18.0,,,https://www.flashscore.com/match/nJXWrBar/#/match-summary
+2022,women,2022-06-04,Thailand,Belgium,2,3,0,22,25,25,18,25,23,21.0,25.0,13.0,15.0,https://www.flashscore.com/match/txe4miiR/#/match-summary
+2022,women,2022-06-03,USA,Canada,3,0,1,25,14,25,22,25,19,,,,,https://www.flashscore.com/match/2od0lXyL/#/match-summary
+2022,women,2022-06-03,Dominican Republic,Brazil,1,3,0,9,25,25,16,18,25,17.0,25.0,,,https://www.flashscore.com/match/YBidkDME/#/match-summary
+2022,women,2022-06-03,Germany,South Korea,3,0,1,25,22,25,15,25,16,,,,,https://www.flashscore.com/match/fLhhjg78/#/match-summary
+2022,women,2022-06-03,Turkey,China,1,3,0,16,25,25,20,16,25,22.0,25.0,,,https://www.flashscore.com/match/hGE9R9U7/#/match-summary
+2022,women,2022-06-03,Netherlands,Italy,0,3,0,19,25,15,25,15,25,,,,,https://www.flashscore.com/match/ttB5SkF1/#/match-summary
+2022,women,2022-06-03,Serbia,Bulgaria,3,0,1,26,24,25,15,26,24,,,,,https://www.flashscore.com/match/MuIK1Jmq/#/match-summary
+2022,women,2022-06-02,Canada,Dominican Republic,3,0,1,25,18,25,15,25,18,,,,,https://www.flashscore.com/match/8SCcUBpk/#/match-summary
+2022,women,2022-06-02,Germany,Japan,2,3,0,27,25,25,23,20,25,22.0,25.0,12.0,15.0,https://www.flashscore.com/match/jiIhViVr/#/match-summary
+2022,women,2022-06-02,Brazil,Poland,3,0,1,25,23,25,21,25,22,,,,,https://www.flashscore.com/match/lrWQZXMR/#/match-summary
+2022,women,2022-06-02,Belgium,Italy,1,3,0,25,21,19,25,23,25,20.0,25.0,,,https://www.flashscore.com/match/fLWMzE7L/#/match-summary
+2022,women,2022-06-02,Bulgaria,Netherlands,3,2,1,25,15,12,25,19,25,25.0,15.0,15.0,7.0,https://www.flashscore.com/match/UmQh6auS/#/match-summary
+2022,women,2022-06-02,Thailand,Serbia,3,2,1,25,23,25,27,25,20,20.0,25.0,15.0,12.0,https://www.flashscore.com/match/bgwExzw9/#/match-summary
+2022,women,2022-06-01,South Korea,Japan,0,3,0,17,25,16,25,11,25,,,,,https://www.flashscore.com/match/K2vAwGN2/#/match-summary
+2022,women,2022-06-01,Poland,Canada,3,1,1,20,25,25,22,25,23,25.0,20.0,,,https://www.flashscore.com/match/6oyTEWp2/#/match-summary
+2022,women,2022-06-01,China,Netherlands,3,1,1,16,25,25,22,25,23,25.0,23.0,,,https://www.flashscore.com/match/SfxPFCVe/#/match-summary
+2022,women,2022-06-01,Belgium,Serbia,1,3,0,25,14,16,25,17,25,22.0,25.0,,,https://www.flashscore.com/match/pWnKGhGk/#/match-summary
+2022,women,2022-05-31,USA,Dominican Republic,3,0,1,25,21,25,17,25,18,,,,,https://www.flashscore.com/match/WSrGHY0q/#/match-summary
+2022,women,2022-05-31,Germany,Brazil,1,3,0,27,29,25,23,25,27,21.0,25.0,,,https://www.flashscore.com/match/vXKnZ0WG/#/match-summary
+2022,women,2022-05-31,Turkey,Italy,3,0,1,25,20,25,19,25,19,,,,,https://www.flashscore.com/match/0tMrzsHA/#/match-summary
+2022,women,2022-05-31,Thailand,Bulgaria,3,0,1,25,20,25,22,25,20,,,,,https://www.flashscore.com/match/jcRl7uQL/#/match-summary
+2023,women,2023-07-16,China,Turkey,1,3,0,22,25,25,22,19,25,16.0,25.0,,,https://www.flashscore.com/match/0nZyjUVk/#/match-summary
+2023,women,2023-07-16,Poland,USA,3,2,1,25,15,16,25,25,19,18.0,25.0,17.0,15.0,https://www.flashscore.com/match/vwYuklod/#/match-summary
+2023,women,2023-07-15,USA,Turkey,1,3,0,21,25,14,25,26,24,25.0,27.0,,,https://www.flashscore.com/match/2NT0wGKj/#/match-summary
+2023,women,2023-07-15,Poland,China,0,3,0,18,25,23,25,23,25,,,,,https://www.flashscore.com/match/hxETIG83/#/match-summary
+2023,women,2023-07-13,Turkey,Italy,3,0,1,25,20,25,15,25,18,,,,,https://www.flashscore.com/match/veJ5x830/#/match-summary
+2023,women,2023-07-13,Brazil,China,1,3,0,21,25,20,25,25,20,23.0,25.0,,,https://www.flashscore.com/match/6sLcvUYm/#/match-summary
+2023,women,2023-07-12,USA,Japan,3,1,1,25,23,25,21,18,25,25.0,18.0,,,https://www.flashscore.com/match/pYJ1wllf/#/match-summary
+2023,women,2023-07-12,Poland,Germany,3,1,1,25,12,21,25,25,21,26.0,24.0,,,https://www.flashscore.com/match/hbN9ySI6/#/match-summary
+2023,women,2023-07-02,Thailand,Brazil,0,3,0,20,25,16,25,23,25,,,,,https://www.flashscore.com/match/CxHjzUL1/#/match-summary
+2023,women,2023-07-02,Italy,Japan,3,1,1,25,23,25,23,17,25,25.0,22.0,,,https://www.flashscore.com/match/IFHnyA6e/#/match-summary
+2023,women,2023-07-02,China,USA,3,2,1,18,25,25,19,19,25,25.0,20.0,15.0,8.0,https://www.flashscore.com/match/tbfbcpoT/#/match-summary
+2023,women,2023-07-02,Croatia,Turkey,0,3,0,14,25,23,25,18,25,,,,,https://www.flashscore.com/match/vPIrxjik/#/match-summary
+2023,women,2023-07-02,Poland,South Korea,3,0,1,25,23,25,18,25,16,,,,,https://www.flashscore.com/match/27efbQVM/#/match-summary
+2023,women,2023-07-01,Serbia,Bulgaria,3,2,1,20,25,25,16,25,14,17.0,25.0,15.0,4.0,https://www.flashscore.com/match/pW0ka6GG/#/match-summary
+2023,women,2023-07-01,Thailand,Japan,0,3,0,18,25,22,25,20,25,,,,,https://www.flashscore.com/match/MmOwwWyq/#/match-summary
+2023,women,2023-07-01,Netherlands,Canada,2,3,0,27,25,16,25,25,18,23.0,25.0,9.0,15.0,https://www.flashscore.com/match/KvxCsCTR/#/match-summary
+2023,women,2023-07-01,Germany,USA,1,3,0,22,25,25,18,22,25,13.0,25.0,,,https://www.flashscore.com/match/6u2o0n1A/#/match-summary
+2023,women,2023-07-01,Italy,Croatia,3,0,1,25,14,25,17,25,17,,,,,https://www.flashscore.com/match/QHx8rhEL/#/match-summary
+2023,women,2023-07-01,South Korea,China,1,3,0,13,25,21,25,25,21,15.0,25.0,,,https://www.flashscore.com/match/CI2s1So4/#/match-summary
+2023,women,2023-06-30,Serbia,Dominican Republic,2,3,0,25,22,15,25,25,23,19.0,25.0,10.0,15.0,https://www.flashscore.com/match/0raw28Wc/#/match-summary
+2023,women,2023-06-30,Brazil,Turkey,0,3,0,22,25,16,25,22,25,,,,,https://www.flashscore.com/match/SWJ4qYbF/#/match-summary
+2023,women,2023-06-30,China,Dominican Republic,2,3,0,25,20,20,25,25,22,20.0,25.0,13.0,15.0,https://www.flashscore.com/match/IJ9Y2lHi/#/match-summary
+2023,women,2023-06-30,Netherlands,Japan,3,1,1,25,22,25,17,21,25,25.0,20.0,,,https://www.flashscore.com/match/p8UapEq9/#/match-summary
+2023,women,2023-06-30,Germany,Serbia,1,3,0,17,25,25,23,16,25,28.0,30.0,,,https://www.flashscore.com/match/vTAU3U1o/#/match-summary
+2023,women,2023-06-30,Canada,Italy,2,3,0,25,22,23,25,14,25,26.0,24.0,10.0,15.0,https://www.flashscore.com/match/6HVeofU2/#/match-summary
+2023,women,2023-06-30,Bulgaria,Poland,1,3,0,28,26,19,25,16,25,15.0,25.0,,,https://www.flashscore.com/match/jDHnuoPp/#/match-summary
+2023,women,2023-06-29,Thailand,Turkey,0,3,0,15,25,15,25,20,25,,,,,https://www.flashscore.com/match/I1xEMAi2/#/match-summary
+2023,women,2023-06-29,Brazil,Canada,2,3,0,30,28,22,25,23,25,25.0,21.0,15.0,17.0,https://www.flashscore.com/match/vBwANjxd/#/match-summary
+2023,women,2023-06-29,Dominican Republic,South Korea,3,0,1,25,18,25,18,25,16,,,,,https://www.flashscore.com/match/EmfJdDfI/#/match-summary
+2023,women,2023-06-29,USA,Bulgaria,3,0,1,25,15,25,17,25,17,,,,,https://www.flashscore.com/match/WO4EcguC/#/match-summary
+2023,women,2023-06-29,Croatia,Netherlands,0,3,0,20,25,11,25,15,25,,,,,https://www.flashscore.com/match/dnl5OWMk/#/match-summary
+2023,women,2023-06-29,Poland,Germany,3,2,1,15,25,25,19,25,19,19.0,25.0,17.0,15.0,https://www.flashscore.com/match/IL0AbZP5/#/match-summary
+2023,women,2023-06-28,Brazil,Italy,3,2,1,26,28,25,20,19,25,25.0,21.0,15.0,10.0,https://www.flashscore.com/match/rqp1PC7q/#/match-summary
+2023,women,2023-06-28,China,Serbia,1,3,0,13,25,25,17,23,25,20.0,25.0,,,https://www.flashscore.com/match/Ob16aFAa/#/match-summary
+2023,women,2023-06-28,Japan,Turkey,3,2,1,25,23,25,23,21,25,16.0,25.0,15.0,9.0,https://www.flashscore.com/match/Q3cZThaS/#/match-summary
+2023,women,2023-06-28,USA,Poland,3,2,1,17,25,25,15,27,25,28.0,30.0,16.0,14.0,https://www.flashscore.com/match/p8220eeg/#/match-summary
+2023,women,2023-06-27,Thailand,Netherlands,0,3,0,26,28,18,25,20,25,,,,,https://www.flashscore.com/match/nDbVUYqM/#/match-summary
+2023,women,2023-06-27,Bulgaria,South Korea,3,1,1,25,22,25,18,24,26,25.0,15.0,,,https://www.flashscore.com/match/IoW51ytm/#/match-summary
+2023,women,2023-06-27,Croatia,Canada,0,3,0,21,25,21,25,26,28,,,,,https://www.flashscore.com/match/61sYVEUF/#/match-summary
+2023,women,2023-06-27,Germany,Dominican Republic,3,1,1,25,19,25,18,18,25,25.0,21.0,,,https://www.flashscore.com/match/veX12HQt/#/match-summary
+2023,women,2023-06-18,Germany,South Korea,3,1,1,25,19,25,17,25,27,25.0,12.0,,,https://www.flashscore.com/match/SArUWfF9/#/match-summary
+2023,women,2023-06-18,Thailand,Croatia,0,3,0,17,25,21,25,20,25,,,,,https://www.flashscore.com/match/YmqQXz03/#/match-summary
+2023,women,2023-06-18,Brazil,USA,0,3,0,22,25,19,25,22,25,,,,,https://www.flashscore.com/match/KpuMYGpc/#/match-summary
+2023,women,2023-06-18,Italy,China,3,2,1,23,25,25,23,18,25,25.0,22.0,15.0,12.0,https://www.flashscore.com/match/Iu1wAX7d/#/match-summary
+2023,women,2023-06-18,Dominican Republic,Turkey,1,3,0,23,25,19,25,25,23,20.0,25.0,,,https://www.flashscore.com/match/vk2ZADhj/#/match-summary
+2023,women,2023-06-18,Bulgaria,Netherlands,0,3,0,24,26,17,25,17,25,,,,,https://www.flashscore.com/match/AFcVBgwp/#/match-summary
+2023,women,2023-06-17,Serbia,Croatia,3,1,1,25,16,25,11,23,25,25.0,17.0,,,https://www.flashscore.com/match/86B3GZUS/#/match-summary
+2023,women,2023-06-17,Japan,USA,3,2,1,23,25,25,23,25,19,23.0,25.0,15.0,6.0,https://www.flashscore.com/match/QsMbHFFM/#/match-summary
+2023,women,2023-06-17,Brazil,Germany,3,1,1,25,22,25,18,22,25,25.0,17.0,,,https://www.flashscore.com/match/E7IfIe0G/#/match-summary
+2023,women,2023-06-17,Poland,China,3,0,1,25,20,25,23,25,22,,,,,https://www.flashscore.com/match/KpJjJyoA/#/match-summary
+2023,women,2023-06-17,Netherlands,Italy,2,3,0,25,22,22,25,20,25,25.0,18.0,17.0,19.0,https://www.flashscore.com/match/tfKnKHV3/#/match-summary
+2023,women,2023-06-17,Dominican Republic,Canada,3,2,1,22,25,25,13,25,17,23.0,25.0,15.0,10.0,https://www.flashscore.com/match/OIPsLcGc/#/match-summary
+2023,women,2023-06-16,Serbia,Thailand,3,2,1,24,26,22,25,25,17,25.0,12.0,16.0,14.0,https://www.flashscore.com/match/pSQwMw1i/#/match-summary
+2023,women,2023-06-16,South Korea,Croatia,0,3,0,23,25,21,25,14,25,,,,,https://www.flashscore.com/match/WOxdcfOj/#/match-summary
+2023,women,2023-06-16,Japan,Germany,2,3,0,23,25,25,14,22,25,25.0,20.0,8.0,15.0,https://www.flashscore.com/match/ILYibz9p/#/match-summary
+2023,women,2023-06-16,Bulgaria,China,1,3,0,25,20,7,25,10,25,15.0,25.0,,,https://www.flashscore.com/match/xOKNF2vI/#/match-summary
+2023,women,2023-06-16,Poland,Netherlands,0,3,0,22,25,21,25,26,28,,,,,https://www.flashscore.com/match/bXLJGrPB/#/match-summary
+2023,women,2023-06-16,Turkey,Canada,3,0,1,25,15,25,22,25,20,,,,,https://www.flashscore.com/match/4d7GHO95/#/match-summary
+2023,women,2023-06-15,Brazil,Serbia,3,2,1,23,25,25,22,21,25,25.0,12.0,15.0,11.0,https://www.flashscore.com/match/Q58CI4fa/#/match-summary
+2023,women,2023-06-15,Japan,South Korea,3,0,1,25,18,25,13,25,19,,,,,https://www.flashscore.com/match/rsJ7Jpug/#/match-summary
+2023,women,2023-06-15,Thailand,USA,0,3,0,21,25,18,25,16,25,,,,,https://www.flashscore.com/match/UwF3KQPn/#/match-summary
+2023,women,2023-06-15,Dominican Republic,Italy,2,3,0,16,25,25,16,25,21,22.0,25.0,10.0,15.0,https://www.flashscore.com/match/zHFaL6At/#/match-summary
+2023,women,2023-06-15,Poland,Turkey,3,0,1,25,22,25,20,30,28,,,,,https://www.flashscore.com/match/Y7TXPn2P/#/match-summary
+2023,women,2023-06-15,Bulgaria,Canada,0,3,0,15,25,13,25,15,25,,,,,https://www.flashscore.com/match/djpk13PO/#/match-summary
+2023,women,2023-06-14,Brazil,South Korea,3,0,1,31,29,25,16,25,16,,,,,https://www.flashscore.com/match/Iaoo2qAI/#/match-summary
+2023,women,2023-06-14,Germany,Thailand,3,1,1,25,20,25,13,19,25,25.0,23.0,,,https://www.flashscore.com/match/C2rw45u6/#/match-summary
+2023,women,2023-06-14,Netherlands,Turkey,0,3,0,29,31,21,25,15,25,,,,,https://www.flashscore.com/match/UwgY4oQa/#/match-summary
+2023,women,2023-06-14,Italy,Bulgaria,3,0,1,25,17,25,19,25,23,,,,,https://www.flashscore.com/match/jmfU5RAg/#/match-summary
+2023,women,2023-06-13,Japan,Serbia,2,3,0,25,16,20,25,25,16,20.0,25.0,10.0,15.0,https://www.flashscore.com/match/MDkQ67em/#/match-summary
+2023,women,2023-06-13,Croatia,USA,1,3,0,25,17,22,25,18,25,15.0,25.0,,,https://www.flashscore.com/match/rNjM7mts/#/match-summary
+2023,women,2023-06-13,China,Canada,3,0,1,25,14,25,18,29,27,,,,,https://www.flashscore.com/match/xtEgCTXP/#/match-summary
+2023,women,2023-06-13,Dominican Republic,Poland,1,3,0,23,25,28,30,25,23,17.0,25.0,,,https://www.flashscore.com/match/OxAkD9IJ/#/match-summary
+2023,women,2023-06-04,USA,Turkey,3,2,1,25,22,25,22,22,25,11.0,25.0,15.0,9.0,https://www.flashscore.com/match/AZL7lQuJ/#/match-summary
+2023,women,2023-06-04,Canada,Serbia,3,2,1,18,25,28,26,25,23,18.0,25.0,15.0,12.0,https://www.flashscore.com/match/WrN3k6QC/#/match-summary
+2023,women,2023-06-04,Thailand,South Korea,3,0,1,25,17,28,26,25,21,,,,,https://www.flashscore.com/match/jX56jnB6/#/match-summary
+2023,women,2023-06-04,Japan,China,0,3,0,18,25,25,27,25,27,,,,,https://www.flashscore.com/match/Ct72iSe0/#/match-summary
+2023,women,2023-06-04,Germany,Bulgaria,3,2,1,18,25,25,20,23,25,26.0,24.0,15.0,10.0,https://www.flashscore.com/match/IJ7bh8tf/#/match-summary
+2023,women,2023-06-04,Croatia,Brazil,0,3,0,24,26,18,25,8,25,,,,,https://www.flashscore.com/match/4G3fglRm/#/match-summary
+2023,women,2023-06-03,Turkey,Italy,3,0,1,25,19,26,24,25,19,,,,,https://www.flashscore.com/match/MiEkfUBs/#/match-summary
+2023,women,2023-06-03,USA,South Korea,3,0,1,25,16,27,25,25,11,,,,,https://www.flashscore.com/match/KrSNbA3Q/#/match-summary
+2023,women,2023-06-03,Poland,Serbia,3,0,1,25,18,25,22,30,28,,,,,https://www.flashscore.com/match/j9NJajlK/#/match-summary
+2023,women,2023-06-03,Bulgaria,Japan,0,3,0,20,25,17,25,19,25,,,,,https://www.flashscore.com/match/CIOF0WYD/#/match-summary
+2023,women,2023-06-03,China,Netherlands,3,1,1,27,25,23,25,25,22,25.0,20.0,,,https://www.flashscore.com/match/ADpXymdD/#/match-summary
+2023,women,2023-06-03,Brazil,Dominican Republic,3,1,1,27,25,20,25,25,21,27.0,25.0,,,https://www.flashscore.com/match/CSRTxTt7/#/match-summary
+2023,women,2023-06-02,USA,Italy,3,2,1,25,16,14,25,22,25,25.0,20.0,15.0,9.0,https://www.flashscore.com/match/I5SPw9R0/#/match-summary
+2023,women,2023-06-02,Canada,South Korea,3,0,1,25,17,25,16,25,18,,,,,https://www.flashscore.com/match/vFTLvkCf/#/match-summary
+2023,women,2023-06-02,Thailand,Poland,0,3,0,20,25,16,25,15,25,,,,,https://www.flashscore.com/match/MwZGuVdl/#/match-summary
+2023,women,2023-06-02,Croatia,Japan,0,3,0,17,25,19,25,20,25,,,,,https://www.flashscore.com/match/rmzDtBsr/#/match-summary
+2023,women,2023-06-02,Dominican Republic,Netherlands,3,2,1,25,18,22,25,25,18,21.0,25.0,15.0,11.0,https://www.flashscore.com/match/Q7mooiZQ/#/match-summary
+2023,women,2023-06-02,China,Germany,3,0,1,25,19,25,20,25,22,,,,,https://www.flashscore.com/match/C4qsnXJK/#/match-summary
+2023,women,2023-06-01,Turkey,Serbia,3,1,1,24,26,25,17,25,15,25.0,21.0,,,https://www.flashscore.com/match/UufxmD4E/#/match-summary
+2023,women,2023-06-01,Poland,Italy,3,1,1,21,25,25,20,25,14,25.0,18.0,,,https://www.flashscore.com/match/jkeYmgk8/#/match-summary
+2023,women,2023-06-01,Canada,Thailand,0,3,0,17,25,24,26,21,25,,,,,https://www.flashscore.com/match/Or7jP9C7/#/match-summary
+2023,women,2023-06-01,Brazil,Netherlands,3,0,1,25,23,25,23,25,21,,,,,https://www.flashscore.com/match/ph8nQkc1/#/match-summary
+2023,women,2023-06-01,Bulgaria,Dominican Republic,2,3,0,25,22,16,25,25,16,14.0,25.0,11.0,15.0,https://www.flashscore.com/match/2TIsRVse/#/match-summary
+2023,women,2023-06-01,Croatia,Germany,0,3,0,18,25,23,25,23,25,,,,,https://www.flashscore.com/match/lQEwSBSl/#/match-summary
+2023,women,2023-05-31,South Korea,Turkey,0,3,0,14,25,17,25,24,26,,,,,https://www.flashscore.com/match/f3FZSiDr/#/match-summary
+2023,women,2023-05-31,Serbia,USA,2,3,0,20,25,25,19,25,21,21.0,25.0,12.0,15.0,https://www.flashscore.com/match/Iwh6pKrG/#/match-summary
+2023,women,2023-05-31,China,Brazil,3,2,1,25,23,22,25,25,20,20.0,25.0,15.0,12.0,https://www.flashscore.com/match/02c1o0T9/#/match-summary
+2023,women,2023-05-31,Croatia,Bulgaria,0,3,0,12,25,17,25,19,25,,,,,https://www.flashscore.com/match/MBbcntE3/#/match-summary
+2023,women,2023-05-30,Poland,Canada,3,2,1,20,25,25,23,20,25,25.0,23.0,15.0,13.0,https://www.flashscore.com/match/SlagmMbc/#/match-summary
+2023,women,2023-05-30,Italy,Thailand,3,2,1,24,26,25,17,27,29,30.0,28.0,15.0,11.0,https://www.flashscore.com/match/GEekl2qi/#/match-summary
+2023,women,2023-05-30,Japan,Dominican Republic,3,1,1,25,23,25,18,22,25,25.0,15.0,,,https://www.flashscore.com/match/E9H6PI6j/#/match-summary
+2023,women,2023-05-30,Germany,Netherlands,3,1,1,25,21,25,22,20,25,25.0,22.0,,,https://www.flashscore.com/match/zJI2Qbip/#/match-summary
+2024,women,2024-06-23,Japan,Italy,1,3,0,17,25,17,25,25,21,20.0,25.0,,,https://www.flashscore.com/match/EZ4c5EoI/#/match-summary
+2024,women,2024-06-23,Brazil,Poland,2,3,0,21,25,28,26,21,25,25.0,19.0,9.0,15.0,https://www.flashscore.com/match/zkg63hGU/#/match-summary
+2024,women,2024-06-22,Brazil,Japan,2,3,0,24,26,25,20,21,25,25.0,22.0,12.0,15.0,https://www.flashscore.com/match/MRz7h5ng/#/match-summary
+2024,women,2024-06-22,Italy,Poland,3,0,1,25,18,25,17,25,12,,,,,https://www.flashscore.com/match/MNxrlMUQ/#/match-summary
+2024,women,2024-06-21,Poland,Turkey,3,2,1,20,25,25,22,25,20,19.0,25.0,15.0,11.0,https://www.flashscore.com/match/U5cyHmLF/#/match-summary
+2024,women,2024-06-21,Italy,USA,3,0,1,25,21,25,21,25,23,,,,,https://www.flashscore.com/match/M3xG95Dk/#/match-summary
+2024,women,2024-06-20,Thailand,Brazil,0,3,0,21,25,20,25,23,25,,,,,https://www.flashscore.com/match/OIwUoYp2/#/match-summary
+2024,women,2024-06-20,China,Japan,0,3,0,21,25,21,25,22,25,,,,,https://www.flashscore.com/match/2JeqFRkS/#/match-summary
+2024,women,2024-06-16,China,Poland,3,0,1,25,23,25,15,25,19,,,,,https://www.flashscore.com/match/xzJn4pJJ/#/match-summary
+2024,women,2024-06-16,Japan,USA,0,3,0,15,25,18,25,24,26,,,,,https://www.flashscore.com/match/YsbNcrdm/#/match-summary
+2024,women,2024-06-16,Turkey,Brazil,0,3,0,14,25,14,25,19,25,,,,,https://www.flashscore.com/match/OWU4u1tJ/#/match-summary
+2024,women,2024-06-16,Serbia,Italy,1,3,0,20,25,25,20,23,25,22.0,25.0,,,https://www.flashscore.com/match/fiaJbOts/#/match-summary
+2024,women,2024-06-16,Germany,Thailand,3,0,1,25,17,25,21,25,20,,,,,https://www.flashscore.com/match/ptW0tsRC/#/match-summary
+2024,women,2024-06-15,Netherlands,South Korea,3,0,1,25,21,25,11,25,17,,,,,https://www.flashscore.com/match/lAMj34YP/#/match-summary
+2024,women,2024-06-15,China,Turkey,3,2,1,21,25,17,25,25,21,25.0,23.0,15.0,13.0,https://www.flashscore.com/match/tlZqpPRm/#/match-summary
+2024,women,2024-06-15,Japan,Serbia,3,0,1,25,22,25,18,25,15,,,,,https://www.flashscore.com/match/S4ydsNB6/#/match-summary
+2024,women,2024-06-15,Poland,Thailand,3,0,1,25,15,25,23,25,17,,,,,https://www.flashscore.com/match/bPquo5Cs/#/match-summary
+2024,women,2024-06-15,Italy,USA,3,1,1,25,17,19,25,25,15,25.0,21.0,,,https://www.flashscore.com/match/lExhr3d0/#/match-summary
+2024,women,2024-06-15,Dominican Republic,Bulgaria,2,3,0,26,24,23,25,22,25,26.0,24.0,13.0,15.0,https://www.flashscore.com/match/dGcDko4Q/#/match-summary
+2024,women,2024-06-15,Canada,France,3,0,1,25,14,25,18,31,29,,,,,https://www.flashscore.com/match/fiwlqqsf/#/match-summary
+2024,women,2024-06-14,China,Germany,3,0,1,25,19,25,17,25,18,,,,,https://www.flashscore.com/match/fiHIT3s7/#/match-summary
+2024,women,2024-06-14,Italy,South Korea,3,0,1,25,16,25,11,25,13,,,,,https://www.flashscore.com/match/ljb9jRlK/#/match-summary
+2024,women,2024-06-14,Dominican Republic,Poland,0,3,0,31,33,20,25,16,25,,,,,https://www.flashscore.com/match/0UHEUqS0/#/match-summary
+2024,women,2024-06-14,Canada,Netherlands,0,3,0,24,26,16,25,23,25,,,,,https://www.flashscore.com/match/Aaa5i7ZD/#/match-summary
+2024,women,2024-06-14,Bulgaria,Brazil,0,3,0,11,25,11,25,23,25,,,,,https://www.flashscore.com/match/MwJAVPCf/#/match-summary
+2024,women,2024-06-14,Serbia,France,1,3,0,22,25,25,22,23,25,21.0,25.0,,,https://www.flashscore.com/match/8fLMSNdD/#/match-summary
+2024,women,2024-06-13,Dominican Republic,Turkey,1,3,0,25,17,15,25,17,25,18.0,25.0,,,https://www.flashscore.com/match/AoKWx8KK/#/match-summary
+2024,women,2024-06-13,Japan,Canada,2,3,0,25,23,25,22,20,25,21.0,25.0,14.0,16.0,https://www.flashscore.com/match/42O5W5cl/#/match-summary
+2024,women,2024-06-13,Germany,Brazil,1,3,0,20,25,22,25,25,21,24.0,26.0,,,https://www.flashscore.com/match/SMURwl5E/#/match-summary
+2024,women,2024-06-13,France,South Korea,2,3,0,23,25,25,21,25,17,22.0,25.0,13.0,15.0,https://www.flashscore.com/match/QBP1Xorr/#/match-summary
+2024,women,2024-06-13,Bulgaria,Thailand,2,3,0,23,25,25,22,18,25,25.0,22.0,10.0,15.0,https://www.flashscore.com/match/lWVNvUk8/#/match-summary
+2024,women,2024-06-13,Netherlands,USA,0,3,0,21,25,20,25,22,25,,,,,https://www.flashscore.com/match/8WxzxSZQ/#/match-summary
+2024,women,2024-06-12,Brazil,Poland,3,1,1,22,25,25,17,25,17,25.0,16.0,,,https://www.flashscore.com/match/v1lXH6re/#/match-summary
+2024,women,2024-06-12,South Korea,Japan,0,3,0,16,25,16,25,23,25,,,,,https://www.flashscore.com/match/0GxtGpD7/#/match-summary
+2024,women,2024-06-12,Turkey,Thailand,3,0,1,25,17,25,17,25,17,,,,,https://www.flashscore.com/match/QcpTInTl/#/match-summary
+2024,women,2024-06-12,Netherlands,Serbia,3,1,1,25,20,25,21,18,25,25.0,12.0,,,https://www.flashscore.com/match/MPwxHQc1/#/match-summary
+2024,women,2024-06-11,Bulgaria,China,0,3,0,15,25,12,25,17,25,,,,,https://www.flashscore.com/match/lGs0PljL/#/match-summary
+2024,women,2024-06-11,Italy,Canada,3,0,1,25,16,25,15,25,14,,,,,https://www.flashscore.com/match/WzoPJSDr/#/match-summary
+2024,women,2024-06-11,Germany,Dominican Republic,1,3,0,24,26,25,21,21,25,21.0,25.0,,,https://www.flashscore.com/match/APrdQUzF/#/match-summary
+2024,women,2024-06-11,USA,France,3,0,1,25,15,26,24,25,20,,,,,https://www.flashscore.com/match/URbcO85R/#/match-summary
+2024,women,2024-06-02,Bulgaria,Germany,1,3,0,19,25,25,21,21,25,11.0,25.0,,,https://www.flashscore.com/match/G2qhRAL8/#/match-summary
+2024,women,2024-06-02,USA,Turkey,2,3,0,25,21,20,25,21,25,25.0,12.0,12.0,15.0,https://www.flashscore.com/match/2aulSj62/#/match-summary
+2024,women,2024-06-02,South Korea,Canada,0,3,0,15,25,12,25,18,25,,,,,https://www.flashscore.com/match/0f1537T1/#/match-summary
+2024,women,2024-06-02,Italy,China,3,0,1,25,23,25,19,25,16,,,,,https://www.flashscore.com/match/M3214mEe/#/match-summary
+2024,women,2024-06-02,Brazil,Thailand,3,0,1,25,22,25,14,25,17,,,,,https://www.flashscore.com/match/hUcc5Tbk/#/match-summary
+2024,women,2024-06-02,France,Netherlands,0,3,0,17,25,10,25,21,25,,,,,https://www.flashscore.com/match/Ewag69qq/#/match-summary
+2024,women,2024-06-01,Serbia,Bulgaria,3,1,1,18,25,25,21,25,17,25.0,16.0,,,https://www.flashscore.com/match/YuoPNyFG/#/match-summary
+2024,women,2024-06-01,Poland,USA,3,1,1,29,27,25,22,20,25,25.0,23.0,,,https://www.flashscore.com/match/M5sLOHaA/#/match-summary
+2024,women,2024-06-01,South Korea,Turkey,0,3,0,20,25,15,25,20,25,,,,,https://www.flashscore.com/match/SrrHPcp4/#/match-summary
+2024,women,2024-06-01,Thailand,China,0,3,0,23,25,17,25,18,25,,,,,https://www.flashscore.com/match/lhqDQwVc/#/match-summary
+2024,women,2024-06-01,Dominican Republic,Japan,1,3,0,20,25,25,23,24,26,23.0,25.0,,,https://www.flashscore.com/match/WGl8RJFi/#/match-summary
+2024,women,2024-06-01,Brazil,Italy,3,2,1,26,24,25,27,18,25,25.0,19.0,15.0,10.0,https://www.flashscore.com/match/hQk4Sa0o/#/match-summary
+2024,women,2024-05-31,Bulgaria,USA,0,3,0,17,25,22,25,22,25,,,,,https://www.flashscore.com/match/vN1M3GNp/#/match-summary
+2024,women,2024-05-31,Serbia,Canada,3,1,1,25,22,21,25,26,24,25.0,20.0,,,https://www.flashscore.com/match/21Af8dFT/#/match-summary
+2024,women,2024-05-31,Germany,Poland,0,3,0,23,25,20,25,21,25,,,,,https://www.flashscore.com/match/KxLk9x0N/#/match-summary
+2024,women,2024-05-31,Japan,China,3,1,1,25,22,19,25,25,18,25.0,17.0,,,https://www.flashscore.com/match/tnMoAIpH/#/match-summary
+2024,women,2024-05-31,Netherlands,Dominican Republic,3,1,1,25,17,23,25,25,21,25.0,17.0,,,https://www.flashscore.com/match/nB7rBbVA/#/match-summary
+2024,women,2024-05-31,France,Thailand,2,3,0,23,25,21,25,25,23,25.0,20.0,7.0,15.0,https://www.flashscore.com/match/8K8vCvG4/#/match-summary
+2024,women,2024-05-30,Serbia,Turkey,1,3,0,18,25,31,33,25,21,21.0,25.0,,,https://www.flashscore.com/match/QeJZCK0b/#/match-summary
+2024,women,2024-05-30,Canada,Germany,3,0,1,25,20,25,15,25,22,,,,,https://www.flashscore.com/match/ChFVD0oh/#/match-summary
+2024,women,2024-05-30,South Korea,Poland,0,3,0,20,25,20,25,10,25,,,,,https://www.flashscore.com/match/IVFREtWo/#/match-summary
+2024,women,2024-05-30,Brazil,Netherlands,3,1,1,25,17,20,25,25,20,25.0,18.0,,,https://www.flashscore.com/match/vuHNFMGu/#/match-summary
+2024,women,2024-05-30,France,Japan,0,3,0,14,25,18,25,15,25,,,,,https://www.flashscore.com/match/xxbJAUJU/#/match-summary
+2024,women,2024-05-30,Dominican Republic,Italy,0,3,0,12,25,19,25,21,25,,,,,https://www.flashscore.com/match/boaFBA4O/#/match-summary
+2024,women,2024-05-29,Germany,Turkey,1,3,0,25,20,20,25,9,25,24.0,26.0,,,https://www.flashscore.com/match/4OaBCjkI/#/match-summary
+2024,women,2024-05-29,South Korea,Bulgaria,2,3,0,23,25,25,20,26,24,21.0,25.0,13.0,15.0,https://www.flashscore.com/match/hld7DWZB/#/match-summary
+2024,women,2024-05-29,Netherlands,China,1,3,0,25,21,23,25,23,25,21.0,25.0,,,https://www.flashscore.com/match/AP62ECK5/#/match-summary
+2024,women,2024-05-29,Italy,France,3,0,1,25,15,25,14,25,14,,,,,https://www.flashscore.com/match/WY7bFh5a/#/match-summary
+2024,women,2024-05-28,Canada,USA,1,3,0,22,25,17,25,25,23,20.0,25.0,,,https://www.flashscore.com/match/2a3fGYkg/#/match-summary
+2024,women,2024-05-28,Poland,Serbia,3,1,1,25,16,23,25,25,18,25.0,22.0,,,https://www.flashscore.com/match/O84jHEzm/#/match-summary
+2024,women,2024-05-28,Brazil,Japan,3,2,1,24,26,26,24,19,25,25.0,20.0,15.0,11.0,https://www.flashscore.com/match/tpFoIfLt/#/match-summary
+2024,women,2024-05-28,Thailand,Dominican Republic,3,1,1,25,22,20,25,25,17,26.0,24.0,,,https://www.flashscore.com/match/4ONJMzDP/#/match-summary
+2024,women,2024-05-19,Thailand,South Korea,1,3,0,19,25,25,23,16,25,18.0,25.0,,,https://www.flashscore.com/match/jLZybizP/#/match-summary
+2024,women,2024-05-19,France,Turkey,0,3,0,19,25,16,25,19,25,,,,,https://www.flashscore.com/match/WIJz0D5C/#/match-summary
+2024,women,2024-05-19,USA,Dominican Republic,3,0,1,25,23,25,20,25,18,,,,,https://www.flashscore.com/match/CUzYbXKI/#/match-summary
+2024,women,2024-05-19,Poland,Japan,3,0,1,26,24,25,20,25,23,,,,,https://www.flashscore.com/match/hSKW0gj6/#/match-summary
+2024,women,2024-05-19,Brazil,Serbia,3,0,1,25,15,25,19,25,19,,,,,https://www.flashscore.com/match/b5LS1Zz0/#/match-summary
+2024,women,2024-05-19,Germany,Netherlands,1,3,0,21,25,25,21,23,25,20.0,25.0,,,https://www.flashscore.com/match/p2HO2FLg/#/match-summary
+2024,women,2024-05-18,Thailand,Canada,1,3,0,21,25,13,25,25,20,17.0,25.0,,,https://www.flashscore.com/match/2wSJ3e6m/#/match-summary
+2024,women,2024-05-18,South Korea,Dominican Republic,0,3,0,13,25,19,25,20,25,,,,,https://www.flashscore.com/match/OnTF4yis/#/match-summary
+2024,women,2024-05-18,Italy,Turkey,3,1,1,25,27,25,21,25,21,25.0,19.0,,,https://www.flashscore.com/match/h4xpAcTJ/#/match-summary
+2024,women,2024-05-18,Serbia,China,1,3,0,25,21,15,25,18,25,18.0,25.0,,,https://www.flashscore.com/match/Wfyl9HrQ/#/match-summary
+2024,women,2024-05-18,France,Bulgaria,3,1,1,19,25,25,21,25,11,29.0,27.0,,,https://www.flashscore.com/match/jab1oEjJ/#/match-summary
+2024,women,2024-05-18,Poland,Netherlands,3,0,1,25,20,26,24,25,18,,,,,https://www.flashscore.com/match/hEubnfyD/#/match-summary
+2024,women,2024-05-17,Brazil,USA,3,1,1,25,22,25,16,18,25,25.0,19.0,,,https://www.flashscore.com/match/bitfmzM6/#/match-summary
+2024,women,2024-05-17,China,Canada,1,3,0,22,25,25,20,23,25,22.0,25.0,,,https://www.flashscore.com/match/K0sjlG60/#/match-summary
+2024,women,2024-05-17,Italy,Bulgaria,3,0,1,25,11,25,22,25,19,,,,,https://www.flashscore.com/match/OYmsjxxl/#/match-summary
+2024,women,2024-05-17,Serbia,Thailand,3,0,1,25,13,29,27,25,19,,,,,https://www.flashscore.com/match/2Pnokdif/#/match-summary
+2024,women,2024-05-17,France,Poland,0,3,0,20,25,16,25,17,25,,,,,https://www.flashscore.com/match/UBlwiIMs/#/match-summary
+2024,women,2024-05-17,Japan,Germany,3,0,1,25,21,25,15,25,22,,,,,https://www.flashscore.com/match/IZL98phF/#/match-summary
+2024,women,2024-05-16,Dominican Republic,Canada,0,3,0,20,25,21,25,22,25,,,,,https://www.flashscore.com/match/zBW49Qx9/#/match-summary
+2024,women,2024-05-16,China,USA,3,1,1,23,25,25,23,25,22,25.0,19.0,,,https://www.flashscore.com/match/dKX0A6N2/#/match-summary
+2024,women,2024-05-16,Brazil,South Korea,3,0,1,25,15,25,19,25,17,,,,,https://www.flashscore.com/match/UDqJoNp2/#/match-summary
+2024,women,2024-05-16,Netherlands,Turkey,1,3,0,14,25,25,23,23,25,18.0,25.0,,,https://www.flashscore.com/match/jNpFn3Ve/#/match-summary
+2024,women,2024-05-16,Bulgaria,Japan,0,3,0,13,25,15,25,15,25,,,,,https://www.flashscore.com/match/8beAmqGk/#/match-summary
+2024,women,2024-05-16,Germany,Italy,1,3,0,16,25,16,25,25,21,22.0,25.0,,,https://www.flashscore.com/match/fei6lP0q/#/match-summary
+2024,women,2024-05-15,Serbia,Dominican Republic,1,3,0,18,25,17,25,25,21,20.0,25.0,,,https://www.flashscore.com/match/xG4vg5hS/#/match-summary
+2024,women,2024-05-15,USA,Thailand,3,1,1,25,22,19,25,25,12,25.0,18.0,,,https://www.flashscore.com/match/bP5zfowM/#/match-summary
+2024,women,2024-05-15,Japan,Turkey,3,2,1,25,23,25,21,23,25,20.0,25.0,15.0,11.0,https://www.flashscore.com/match/tlBVfRNF/#/match-summary
+2024,women,2024-05-15,France,Germany,0,3,0,22,25,14,25,22,25,,,,,https://www.flashscore.com/match/2cCRe789/#/match-summary
+2024,women,2024-05-14,Brazil,Canada,3,1,1,26,24,23,25,26,24,25.0,12.0,,,https://www.flashscore.com/match/8zDNdmg3/#/match-summary
+2024,women,2024-05-14,China,South Korea,3,0,1,25,15,25,16,25,14,,,,,https://www.flashscore.com/match/d09JcTwc/#/match-summary
+2024,women,2024-05-14,Italy,Poland,0,3,0,26,28,23,25,21,25,,,,,https://www.flashscore.com/match/feVzZq1d/#/match-summary
+2024,women,2024-05-14,Bulgaria,Netherlands,0,3,0,14,25,20,25,22,25,,,,,https://www.flashscore.com/match/G4WWZPoj/#/match-summary

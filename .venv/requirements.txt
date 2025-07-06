@@ -1,0 +1,7 @@
+pandas>=2.0
+playwright>=1.40
+
+# Optional: for exporting results cleanly
+# tqdm==4.66.1   # if you ever add progress bars
+# to install all: pip install -r requirements.txt
+
