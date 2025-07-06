@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+
+# Playwright cache and browser binaries
+.playwright/
+playwright/.cache/
+
+# Output files and folders
+*.csv
+*.json
+vnl_results/
+
+# Jupyter notebooks checkpoints (if ever used)
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code project settings
+.vscode/
