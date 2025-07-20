@@ -10,6 +10,75 @@ def load_data():
         print(f"❌ Error loading file: {e}")
         return None
 
+def first_set_winner_wins_match(df):
+    total_matches = 0
+    wins_by_set1_winner = 0
+
+    for _, row in df.iterrows():
+        set1_home = row["set_1_home"]
+        set1_away = row["set_1_away"]
+
+        if set1_home == set1_away:
+            continue  # skip if set 1 is a tie (bad data)
+
+        total_matches += 1
+
+        set1_winner = "home" if set1_home > set1_away else "away"
+        match_winner = "home" if row["home_score"] > row["away_score"] else "away"
+
+        if set1_winner == match_winner:
+            wins_by_set1_winner += 1
+
+    if total_matches == 0:
+        print("\n📊 [First Set Winner] No valid matches found.")
+        return
+
+    pct = (wins_by_set1_winner / total_matches) * 100
+
+    print("\n📊 [First Set Winner Match Outcome] Stats:")
+    print(f"- Total matches: {total_matches}")
+    print(f"- First set winner also won match: {wins_by_set1_winner} ({pct:.2f}%)")
+
+
+def first_two_sets_winner_wins_match(df):
+    total_matches = 0
+    wins_by_2set_winner = 0
+
+    for _, row in df.iterrows():
+        s1h, s1a = row["set_1_home"], row["set_1_away"]
+        s2h, s2a = row["set_2_home"], row["set_2_away"]
+
+        # Skip incomplete or tied sets (bad data)
+        if (s1h == s1a) or (s2h == s2a):
+            continue
+
+        # Who won both sets?
+        if (s1h > s1a) and (s2h > s2a):
+            early_leader = "home"
+        elif (s1h < s1a) and (s2h < s2a):
+            early_leader = "away"
+        else:
+            continue  # not a 2-0 situation
+
+        total_matches += 1
+
+        match_winner = "home" if row["home_score"] > row["away_score"] else "away"
+
+        if early_leader == match_winner:
+            wins_by_2set_winner += 1
+
+    if total_matches == 0:
+        print("\n📊 [2–0 Start] No matches with a 2–0 lead found.")
+        return
+
+    pct = (wins_by_2set_winner / total_matches) * 100
+
+    print("\n📊 [2–0 Set Lead Match Outcome] Stats:")
+    print(f"- Total matches with 2–0 start: {total_matches}")
+    print(f"- Team with 2–0 lead won match: {wins_by_2set_winner} ({pct:.2f}%)")
+
+
+
 def one_one_set3_winner_match_winner(df):
     one_one_matches = df[
         ((df["set_1_home"] > df["set_1_away"]) & (df["set_2_home"] < df["set_2_away"])) |
@@ -50,6 +119,7 @@ def comeback_from_0_2_to_win(df):
     total_five_sets = len(five_set_matches)
     total_comeback_attempts = 0
     comeback_wins = 0
+    total_matches = len(df)
 
     for _, row in five_set_matches.iterrows():
         # Case 1: Home wins sets 1 & 2, Away wins sets 3 & 4 (2-2)
@@ -70,13 +140,15 @@ def comeback_from_0_2_to_win(df):
         print("\n📊 [0–2 to 2–2 Comeback] No 5-set matches found.")
         return
 
-    comeback_rate = (total_comeback_attempts / total_five_sets) * 100
+    comeback_rate = (total_comeback_attempts / total_matches) * 100
     win_rate = (comeback_wins / total_comeback_attempts) * 100 if total_comeback_attempts > 0 else 0
+    win_rate_over_total = (comeback_wins / total_matches) * 100 if total_matches > 0 else 0
 
     print("\n📊 [0–2 to 2–2 Comeback] Stats:")
     print(f"- Total 5-set matches: {total_five_sets}")
+    print(f"- Total matches: {total_matches}")
     print(f"- Comeback attempts (0–2 to 2–2): {total_comeback_attempts} ({comeback_rate:.2f}%)")
-    print(f"- Comeback team won the match: {comeback_wins} ({win_rate:.2f}%)")
+    print(f"- Comeback team won the match: {comeback_wins} ({win_rate:.2f}%) after comeback, ({win_rate_over_total:.2f}%) over total games")
 
 def two_one_equalizer_wins_match(df):
     five_set_matches = df[(df["home_score"] + df["away_score"]) == 5].copy()
@@ -126,9 +198,11 @@ def two_one_equalizer_wins_match(df):
 
 def show_menu():
     print("\n=== VNL Statistic Calculator ===")
-    print("1 - [1-1 after 2 sets] Set 3 winner vs match winner")
-    print("2 - [2–1 lead tied to 2–2] Did equalizer win the match?")
-    print("3 - [0-2 to 2-2 comeback] Did comeback team win the match?")
+    print("1 - [Set 1 winner] Percentage of matches they won")
+    print("2 - [Set 1 & 2 winner] Percentage of matches they won")
+    print("3 - [1-1 after 2 sets] Set 3 winner vs match winner")
+    print("4 - [2–1 lead tied to 2–2] Did equalizer win the match?")
+    print("5 - [0-2 to 2-2 comeback] Did comeback team win the match?")
     print("0 - Exit")
     return input("Choose an option: ")
 
@@ -140,10 +214,14 @@ def main():
     while True:
         choice = show_menu()
         if choice == "1":
+            first_set_winner_wins_match(df)
+        elif choice == "2":            
+            first_two_sets_winner_wins_match(df)
+        elif choice == "3":
             one_one_set3_winner_match_winner(df)
-        elif choice == "2":
+        elif choice == "4":
             two_one_equalizer_wins_match(df)
-        elif choice == "3": 
+        elif choice == "5": 
             comeback_from_0_2_to_win(df)
         elif choice == "0":
             print("👋 Goodbye!")
