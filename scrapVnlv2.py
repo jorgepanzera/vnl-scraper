@@ -129,7 +129,7 @@ all_men = []
 for gender in ["women", "men"]:
     all_data = []
 
-    for season in range(2018, 2025):
+    for season in range(2018, 2026):
         season_results = scrape_vnl_season(season, gender)
         if not season_results:
             print(f"No data found for {gender} {season}")
